@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AboutViewController.nib</key>
+		<data>
+		KIU1Mue+WST96N3RZrnIaUDJ08Y=
+		</data>
+		<key>Absinthe Fireplace.png</key>
+		<data>
+		tPN3ZUDfOitMwLoUZWWBTFmvZ64=
+		</data>
+		<key>Absinthe-House-Fireplace-sm.png</key>
+		<data>
+		obc2kee4QBtIEe09Lm3M8oP7VSg=
+		</data>
+		<key>Background2-1.png</key>
+		<data>
+		CFCnQnBb6qOW7xtP37MrHh9YjvQ=
+		</data>
+		<key>Charm Gate Sign.png</key>
+		<data>
+		S1Ix01TopX71XsN5X1Ob4nlGFKQ=
+		</data>
+		<key>Charm Gate.png</key>
+		<data>
+		wrMlxRZ+6mOPiCIS4ZfqrAqQpRM=
+		</data>
+		<key>Charm gates sm-1.png</key>
+		<data>
+		AQB1tDtV1HlZ77Zc1qGZ7vKpnFc=
+		</data>
+		<key>Charm-Gate-Sign-sm.png</key>
+		<data>
+		Otu2Cp23bohJPRQ3hJsn6E3zlNU=
+		</data>
+		<key>Court of Two Sisters.png</key>
+		<data>
+		iKRvjcjDYCYRFQuSuWQuDGhoh6Q=
+		</data>
+		<key>Court-Of-Two-Sisters-Header.png</key>
+		<data>
+		G6b/h56KlC4qsv2uH1gKOiU9Olc=
+		</data>
+		<key>Default.png</key>
+		<data>
+		x52Xg7DNXL0zF/5g21FGcH2B7+A=
+		</data>
+		<key>DirectionsViewController.nib</key>
+		<data>
+		THGLnuYIv8Bm07mO4Cot9n+zKO8=
+		</data>
+		<key>Faulkner House Books.png</key>
+		<data>
+		soVIZdaQO6KvcNk92Idi8o3lRYw=
+		</data>
+		<key>Faulkner-Books-sm.png</key>
+		<data>
+		OI4KHLRywUXBjDiU3eZ0NMglDzI=
+		</data>
+		<key>HelpViewController.nib</key>
+		<data>
+		WnyholLTPMdM6i5UMmbwALUcqXQ=
+		</data>
+		<key>HoursViewController.nib</key>
+		<data>
+		pfU2R54p6ivrhdMkSPk+ebS2ZlU=
+		</data>
+		<key>Infobutton.png</key>
+		<data>
+		lshCVqdz1dBb2j9S5UIKn2pqhyE=
+		</data>
+		<key>Jean Lafitte circa 1873-1.png</key>
+		<data>
+		sYiwX5mQBo5p3O33F0vszYQd1BQ=
+		</data>
+		<key>Jean Lafitte.png</key>
+		<data>
+		h9I4d0MsnTUf7V97iRqPzPQ4m3I=
+		</data>
+		<key>Lafitte's Blacksmith Shop header.png</key>
+		<data>
+		s5A9hbpYZWUHx5DKTuocLmuqbRA=
+		</data>
+		<key>Lafitte's Blacksmith Shop.png</key>
+		<data>
+		s5A9hbpYZWUHx5DKTuocLmuqbRA=
+		</data>
+		<key>Lafitte's Fireplace.png</key>
+		<data>
+		0hVekXl7RoInzMExLvrY8PxEgkg=
+		</data>
+		<key>Lafitte's fireplace sm-1.png</key>
+		<data>
+		YzzRAGi8wNFxDiwwundKNRWieTU=
+		</data>
+		<key>MapViewIcon.png</key>
+		<data>
+		u0Z9VBIrP2KTDdoV+l4+NUdgA3A=
+		</data>
+		<key>Muriel's Balcony.png</key>
+		<data>
+		XoSXLnS1B/uIDvX92RWzlEEVk00=
+		</data>
+		<key>Muriel's Seance Lounge.png</key>
+		<data>
+		Go7sPmH7zOdA6YuKkFpWi4CMnm0=
+		</data>
+		<key>Muriel's outside sm-1.png</key>
+		<data>
+		8kYShaddhUv1Gg8WZaBvlNEfrgY=
+		</data>
+		<key>Muriel's sm-1.png</key>
+		<data>
+		Cajav9tYXbEuRW7sNz8UatflO0Q=
+		</data>
+		<key>Muriel's.png</key>
+		<data>
+		pk5G+yVicVCUQXNMwlofGWFF7+Q=
+		</data>
+		<key>Old Absinthe Fire.png</key>
+		<data>
+		hguWVM6EA4b8o/L8oYD2inV97G4=
+		</data>
+		<key>Old Absinthe House.png</key>
+		<data>
+		afLs8B8XjbKXJlWANYdyoVpmY/Y=
+		</data>
+		<key>Old Absinthe fireplace sm-1-1.png</key>
+		<data>
+		WF2Jwf12uD324ZBPRm72XD6JqDE=
+		</data>
+		<key>PageSevenViewController.nib</key>
+		<data>
+		uByBhjEUrGX+SfEfa2VQUI0V5P0=
+		</data>
+		<key>PageSixViewController.nib</key>
+		<data>
+		bq9lCaontWatYvHz3O8LwRaL+2M=
+		</data>
+		<key>Pat O'Brien's.png</key>
+		<data>
+		1vWVYGDOh0NTUN406b2fLZqX368=
+		</data>
+		<key>Pat O's Bathroom.png</key>
+		<data>
+		mzhjw0XpMu3VtrYJHYmZVOOdCCA=
+		</data>
+		<key>Pat O's Courtyard.png</key>
+		<data>
+		5P/0jBD9rQiOWTTfiHgvil8JQEQ=
+		</data>
+		<key>Pat O's bathroom sm-1.png</key>
+		<data>
+		2bpveUOsQ1oGDTslthEA3pxhLBk=
+		</data>
+		<key>Pat O's courtyard sm-1.png</key>
+		<data>
+		daUpwAZPy87Bo05NZKRfRjYk8lU=
+		</data>
+		<key>Piano Bar sm-1.png</key>
+		<data>
+		aar3VoOpWbX17BEP0kOCoIvweNo=
+		</data>
+		<key>Piano Bar.png</key>
+		<data>
+		WSywnYH4WWsGaBYm4OVSs/Yjyvc=
+		</data>
+		<key>PinDRed1.png</key>
+		<data>
+		YjPAG9HQalqR4Y2r47eptTx/aDU=
+		</data>
+		<key>PinDRed2.png</key>
+		<data>
+		JJFAxwKYknclnOIZLvNWtV9ioRo=
+		</data>
+		<key>PinDRed3.png</key>
+		<data>
+		uPuk6x0mYS9MOJWCTjXGSyL1ruM=
+		</data>
+		<key>PinDRed4.png</key>
+		<data>
+		HHpmPHeSDMAhCS/DQD7V7aKOTAE=
+		</data>
+		<key>PinDRed5.png</key>
+		<data>
+		u8SUN1PmUKBBs8Q+cEkUasp93sI=
+		</data>
+		<key>PinDRed6.png</key>
+		<data>
+		81uPXqhf2YgqSrYUGzVcaLcvOTc=
+		</data>
+		<key>PinDRed7.png</key>
+		<data>
+		gYNzD1D97RFac58+/UIm2kGEla4=
+		</data>
+		<key>PinDRed8.png</key>
+		<data>
+		FPsjFQAugmpKHV22K35+BB11C38=
+		</data>
+		<key>Pirate's Alley Cafe.png</key>
+		<data>
+		PDW5+URKDMbE2yeNWij/HcOKUxM=
+		</data>
+		<key>Pirate's Alley Lamp Post.png</key>
+		<data>
+		vZJQXMtqOD6w4YPOx4qFdhMqs5Q=
+		</data>
+		<key>Pirate's-Alley-Lamp-sm.png</key>
+		<data>
+		qc6yTSDmtP6bbvk0vk6jnrv49FU=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Playbutton.png</key>
+		<data>
+		o/pX4q3LpggBQ4iM6HWDKl1siFc=
+		</data>
+		<key>Seance Lounge 2-1.png</key>
+		<data>
+		T4czU4EwPDmzQibW92dpsXDhWs0=
+		</data>
+		<key>Seance Lounge.png</key>
+		<data>
+		T4czU4EwPDmzQibW92dpsXDhWs0=
+		</data>
+		<key>Seance lounge 2 sm.png</key>
+		<data>
+		lszlbsOs8Cfg/ZHfp148qhDD0hQ=
+		</data>
+		<key>Statue of Jesus sm-1.png</key>
+		<data>
+		h8+3PzPOPc3ZN+szwBdBppfypRE=
+		</data>
+		<key>Statue of Jesus.png</key>
+		<data>
+		FXNJFvaSKGYQB+Wa6ru5XCECjjQ=
+		</data>
+		<key>TableViewIcon.png</key>
+		<data>
+		4KcgRmdXUN6z8i8KPLbhtKEAn8U=
+		</data>
+		<key>The Lafitte Brothers.png</key>
+		<data>
+		aZJk/Xqa9nYzP/4vmFV21s04LqU=
+		</data>
+		<key>TipsViewController.nib</key>
+		<data>
+		euigS1uhpX1jpV7p0qAmqDU//7I=
+		</data>
+		<key>Yo Mama's.png</key>
+		<data>
+		v8bo1oG4Ue61SWHkXqE8RWXuGIk=
+		</data>
+		<key>bp_btn1.png</key>
+		<data>
+		XXMRQVSxEuUn2p3pXB3ME4qMJnc=
+		</data>
+		<key>bp_btn2.png</key>
+		<data>
+		DC5MWgE5yUzKuxb2FE7v9RBnC1w=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		vLzyqcVqLqzZoVxdlUvD7q4yUvU=
+		</data>
+		<key>en.lproj/InfoPlist.strings</key>
+		<data>
+		Ztmnj9r5Mxa3xsgY3/F1Mls99uk=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<data>
+		MWff9AfEkc4ihfBns8D1wlyUEp0=
+		</data>
+		<key>en.lproj/MainWindow.nib</key>
+		<data>
+		QzABbYfA5kGW7it+rrLE+ljj4OU=
+		</data>
+		<key>en.lproj/PageFiveViewController.nib</key>
+		<data>
+		9MZi/k/+jISS6WcdtArN3QYXYss=
+		</data>
+		<key>en.lproj/PageFourViewController.nib</key>
+		<data>
+		HjfQkJ+G64HtCVziV18aTa/oeAA=
+		</data>
+		<key>en.lproj/PageOneViewController.nib</key>
+		<data>
+		wLx7aKGV5WioZijH50GAflwMix4=
+		</data>
+		<key>en.lproj/PageThreeViewController.nib</key>
+		<data>
+		perGJM5cn9gQqTkkEreFQzj0Uxs=
+		</data>
+		<key>en.lproj/PageTwoViewController.nib</key>
+		<data>
+		Y4zWOrRSMjljOl+/h8EBd0bHQLA=
+		</data>
+		<key>icon.png</key>
+		<data>
+		8Ijxg6ozjVXml2JZfE7ne3dLCRA=
+		</data>
+		<key>nolah1.wav</key>
+		<data>
+		d1G1QA2LqhIhD3+cLCY1QpAJD1A=
+		</data>
+		<key>nolah2.wav</key>
+		<data>
+		3HImD8fjoHE73CumPir0zMwddP4=
+		</data>
+		<key>nolah3.wav</key>
+		<data>
+		dLcwAblG86AUpYVmxerSF72dpyQ=
+		</data>
+		<key>nolah4.wav</key>
+		<data>
+		8Q/gBPwwCRXUBtV9dVnOY/8xBmg=
+		</data>
+		<key>nolah5.wav</key>
+		<data>
+		IWCJLgLpfWwVOWeN9aAkaIwGdCo=
+		</data>
+		<key>nolah6.wav</key>
+		<data>
+		eOquSi+5pNMsjrB8cd6Pb2fj900=
+		</data>
+		<key>nolah7.wav</key>
+		<data>
+		yFXWL8jWoiaH77EJnapa2lulOos=
+		</data>
+		<key>nolahtable1.png</key>
+		<data>
+		TOCGNyQ/vuPOXMIovPwPDNzTPoc=
+		</data>
+		<key>nolahtable2.png</key>
+		<data>
+		gNBR4vBUJ477456WPkCAHUAH+/Q=
+		</data>
+		<key>nolahtable3.png</key>
+		<data>
+		1umO00qBDPLKb+HvmZl9+R1DmVE=
+		</data>
+		<key>nolahtable4.png</key>
+		<data>
+		3gvylUYLAE/pAOlf3aop+XdBzTI=
+		</data>
+		<key>nolahtable5.png</key>
+		<data>
+		YVnXzYvTmLAUDoBeZZNWKQUFMng=
+		</data>
+		<key>nolahtable6.png</key>
+		<data>
+		Wn1LPD6c2ra1Lv6IkxNuO4hA5MQ=
+		</data>
+		<key>nolahtable7.png</key>
+		<data>
+		OyassNmz4C5t9unaVcCu6kAYdiI=
+		</data>
+		<key>pausebutton.png</key>
+		<data>
+		5t4Ps4DLXHeNWHyc2XwY1+LAL7k=
+		</data>
+		<key>volume_up.png</key>
+		<data>
+		Wnuk03ZCfZjbpenYQyobhYP81b0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

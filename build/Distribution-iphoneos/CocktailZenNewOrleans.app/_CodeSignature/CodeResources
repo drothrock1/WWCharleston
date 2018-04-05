@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AboutViewController.nib</key>
+		<data>
+		V8BNeCoixYJPk2KqLvS9t9t84Uo=
+		</data>
+		<key>Absinthe Frappe-1-1.png</key>
+		<data>
+		sESP3uwYKOd1SGORe0pSljklIvk=
+		</data>
+		<key>Absinthe Frappe.png</key>
+		<data>
+		VGocZ1GyOfMhPuFZ65K0a2hqK3c=
+		</data>
+		<key>Arnaud's French 75.png</key>
+		<data>
+		cFKGvcy94aHlvEkgdgrQr58qaGI=
+		</data>
+		<key>Bar UnCommon.png</key>
+		<data>
+		p6iEXSWkUOcBrBiEkmUYu4lrt+8=
+		</data>
+		<key>CZenIcon27.png</key>
+		<data>
+		c1ysQ+Mqqao2CpQa74Fg22CbUPo=
+		</data>
+		<key>CZenIcon31.png</key>
+		<data>
+		qTFC3b+BZsLiuK39x/kAxOoSaGQ=
+		</data>
+		<key>Carousel Bar.png</key>
+		<data>
+		Tv27AOdIjJJfYftKp+5Zhria2ik=
+		</data>
+		<key>DSC_0183-bw2.png</key>
+		<data>
+		sbIg16SdXs8ICswMS9FqQP2erF8=
+		</data>
+		<key>Default.png</key>
+		<data>
+		A3J0LB7Qj/MCoczULfnB3SaXdRU=
+		</data>
+		<key>DirectionsViewController.nib</key>
+		<data>
+		BNznx52t8nchux8r3vJVeKdQVBU=
+		</data>
+		<key>French 75 cocktail sm-1-1.png</key>
+		<data>
+		z6V0CCIq4EYre36XB6TKJuCaUbA=
+		</data>
+		<key>French 75.png</key>
+		<data>
+		uF10GdCYELgDr5scVJ6Mp7UibYE=
+		</data>
+		<key>HelpViewController.nib</key>
+		<data>
+		6SZcHOoqNFtMJrLYuCZ4VqCC+So=
+		</data>
+		<key>Hotel Monteleone sm-1.png</key>
+		<data>
+		/LSMSjcE8TX1lpk1dfp1zC5jKIw=
+		</data>
+		<key>Hotel Monteleone.png</key>
+		<data>
+		l9KPZYh1DDeMXsXS+JV+ieZ/1HY=
+		</data>
+		<key>HoursViewController.nib</key>
+		<data>
+		d9hUjFNZf/pSM5noXRfjmaqmscs=
+		</data>
+		<key>House Made Ingredients.png</key>
+		<data>
+		S2LjN4BNLwT1lTL8iyeX95PN3yY=
+		</data>
+		<key>House made ingredients sm-1.png</key>
+		<data>
+		uItSORupRanY0Z2nYszhsPiVPKQ=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		fOErLXif7xfQ80xDoCqHy2iFMM4=
+		</data>
+		<key>Icon_114.png</key>
+		<data>
+		zt9bhkYWVZdfZSognDQsPug5FKU=
+		</data>
+		<key>Infobutton.png</key>
+		<data>
+		lshCVqdz1dBb2j9S5UIKn2pqhyE=
+		</data>
+		<key>Iris Sign.png</key>
+		<data>
+		Vp/EVIamIPsxRMun1oWptPzGN94=
+		</data>
+		<key>Iris sign sm-1.png</key>
+		<data>
+		JzDBCxBCfNa2r6U3NSXbbvhuZ8Y=
+		</data>
+		<key>Iris.png</key>
+		<data>
+		GRRjeyy1DguB5hneZBn8aQe2qEU=
+		</data>
+		<key>Maison Bourbon Exterior.png</key>
+		<data>
+		pYMTEASCgjqAIhp58FNOVv4iQnk=
+		</data>
+		<key>Maison Bourbon exterior sm-1.png</key>
+		<data>
+		3FhjAZfJDz2fKLIUxU9ssz6QO60=
+		</data>
+		<key>Maison Bourbon.png</key>
+		<data>
+		lMToa3C9+L7pwM7V43CnDy7iClg=
+		</data>
+		<key>MapViewIcon.png</key>
+		<data>
+		u0Z9VBIrP2KTDdoV+l4+NUdgA3A=
+		</data>
+		<key>Mint Julep sm-1.png</key>
+		<data>
+		3tK18Ep9FXBosWgJxKoUBA9I9io=
+		</data>
+		<key>Mint Julep.png</key>
+		<data>
+		dXatvFcj+oEoEzhMvEr3nTEu9Jk=
+		</data>
+		<key>Muriel's Balcony.png</key>
+		<data>
+		XoSXLnS1B/uIDvX92RWzlEEVk00=
+		</data>
+		<key>Muriel's Seance Lounge sm-1.png</key>
+		<data>
+		dm4EGhwlHLi7CKQTKW//9D4xCBw=
+		</data>
+		<key>Muriel's Seance Lounge.png</key>
+		<data>
+		TvKNoMSM17O7kBwGd6VjfiKQzBw=
+		</data>
+		<key>Muriel's sm-1.png</key>
+		<data>
+		Cajav9tYXbEuRW7sNz8UatflO0Q=
+		</data>
+		<key>Muriel's.png</key>
+		<data>
+		pk5G+yVicVCUQXNMwlofGWFF7+Q=
+		</data>
+		<key>Napoleon Bust sm-1.png</key>
+		<data>
+		iC1Lz+pHKQd4Hqoo9tPYSv/YKZo=
+		</data>
+		<key>Napoleon Bust.png</key>
+		<data>
+		B7nqvcdlh210Jxrt8LeggZQJsvA=
+		</data>
+		<key>Napoleon House 1934 sm-1.png</key>
+		<data>
+		TuVXEch/xCf4lx+gt6gRW1jV5Ck=
+		</data>
+		<key>Napoleon House 1934.png</key>
+		<data>
+		IQbGQ6oWTONLzZULQAisu5TOg4M=
+		</data>
+		<key>Napoleon House Bar.png</key>
+		<data>
+		W6GgxjbYy3+ZBDF/rvJTQbQZuuY=
+		</data>
+		<key>Napoleon House Courtyard.png</key>
+		<data>
+		4DQwOkQ7dSHpxRUANcceba1N43k=
+		</data>
+		<key>Napoleon House courtyard sm-1.png</key>
+		<data>
+		2LvOHS//PKFzjQggsN3IP2oZOk8=
+		</data>
+		<key>PageEightViewController.nib</key>
+		<data>
+		hCXaPv6pCatmcNhBSlPHx6tNO4k=
+		</data>
+		<key>PageSevenViewController.nib</key>
+		<data>
+		Ar6l0JXii8PF3HNwMI8LDikJ9Tc=
+		</data>
+		<key>PageSixViewController.nib</key>
+		<data>
+		sHOPMIK0nHrAdTFgX1Mppew9lzY=
+		</data>
+		<key>Pere Marquette Hotel sm-1.png</key>
+		<data>
+		I59EPLoJwWarOL6t7kgfsH0A4E4=
+		</data>
+		<key>Pere Marquette Hotel.png</key>
+		<data>
+		m0lr8uS8T5NiJC7AAOYpre4zAyk=
+		</data>
+		<key>Pimm's No. 1 Cup sm-1.png</key>
+		<data>
+		+KWv22PDVDcbqZSwxXgZXsesNgI=
+		</data>
+		<key>Pimm's No. 1 Cup.png</key>
+		<data>
+		kUjkmQKBGF1Jfa+CD4JaUnHud2E=
+		</data>
+		<key>PinDRed1.png</key>
+		<data>
+		YjPAG9HQalqR4Y2r47eptTx/aDU=
+		</data>
+		<key>PinDRed2.png</key>
+		<data>
+		JJFAxwKYknclnOIZLvNWtV9ioRo=
+		</data>
+		<key>PinDRed3.png</key>
+		<data>
+		uPuk6x0mYS9MOJWCTjXGSyL1ruM=
+		</data>
+		<key>PinDRed4.png</key>
+		<data>
+		HHpmPHeSDMAhCS/DQD7V7aKOTAE=
+		</data>
+		<key>PinDRed5.png</key>
+		<data>
+		u8SUN1PmUKBBs8Q+cEkUasp93sI=
+		</data>
+		<key>PinDRed6.png</key>
+		<data>
+		81uPXqhf2YgqSrYUGzVcaLcvOTc=
+		</data>
+		<key>PinDRed7.png</key>
+		<data>
+		gYNzD1D97RFac58+/UIm2kGEla4=
+		</data>
+		<key>PinDRed8.png</key>
+		<data>
+		FPsjFQAugmpKHV22K35+BB11C38=
+		</data>
+		<key>Pirate's Alley Cafe Sign.png</key>
+		<data>
+		jY981L/0T02lvzLz4iD9ECmdxsA=
+		</data>
+		<key>Pirate's Alley Cafe sign sm-1.png</key>
+		<data>
+		f2azIOT2VZhqfnzvitd6BrQTfHY=
+		</data>
+		<key>Pirate's Alley Cafe.png</key>
+		<data>
+		PDW5+URKDMbE2yeNWij/HcOKUxM=
+		</data>
+		<key>Pirate's Alley Lamppost.png</key>
+		<data>
+		vZJQXMtqOD6w4YPOx4qFdhMqs5Q=
+		</data>
+		<key>Pirate's-Alley-Lamp-sm.png</key>
+		<data>
+		qc6yTSDmtP6bbvk0vk6jnrv49FU=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Playbutton.png</key>
+		<data>
+		o/pX4q3LpggBQ4iM6HWDKl1siFc=
+		</data>
+		<key>Ramos Gin Fizz sm-1.png</key>
+		<data>
+		0W+Y8UaGoDVvegJXX/AghYQSlvM=
+		</data>
+		<key>Ramos Gin Fizz.png</key>
+		<data>
+		G90f6oUw+6c35nuI8Z0Kx1c5Adk=
+		</data>
+		<key>RecipeIcon10.png</key>
+		<data>
+		LsRepDMIjj/bLVI5zSrBviKuAGA=
+		</data>
+		<key>Sazerac sm-1.png</key>
+		<data>
+		BgDHRhMZXFYyDfjdbTwAOElWpdA=
+		</data>
+		<key>Sazerac.png</key>
+		<data>
+		Si3Yj6QArfdwbnqtceHVbgmdpDY=
+		</data>
+		<key>Seance Lounge 2-1.png</key>
+		<data>
+		T4czU4EwPDmzQibW92dpsXDhWs0=
+		</data>
+		<key>Seance lounge 2 sm-1-3.png</key>
+		<data>
+		lszlbsOs8Cfg/ZHfp148qhDD0hQ=
+		</data>
+		<key>TableViewIcon.png</key>
+		<data>
+		4KcgRmdXUN6z8i8KPLbhtKEAn8U=
+		</data>
+		<key>The Goody sm-1.png</key>
+		<data>
+		/k1nyWUZExPop/fl3L6f6ETZdbg=
+		</data>
+		<key>The Goody.png</key>
+		<data>
+		U6hjFjda9j9NclqzlVniM1KsnHE=
+		</data>
+		<key>TipsViewController.nib</key>
+		<data>
+		ahhLQ/SW/o7rOPvhND9Dt6knHRE=
+		</data>
+		<key>Vieux Carre sm-1.png</key>
+		<data>
+		Y6ZEEsBqs/FJf68xPHYIWd9cNww=
+		</data>
+		<key>Vieux Carre.png</key>
+		<data>
+		McbHpULMIi3Z60tSEWZl5g7c2l0=
+		</data>
+		<key>bp_btn1.png</key>
+		<data>
+		XXMRQVSxEuUn2p3pXB3ME4qMJnc=
+		</data>
+		<key>bp_btn2.png</key>
+		<data>
+		DC5MWgE5yUzKuxb2FE7v9RBnC1w=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		vLzyqcVqLqzZoVxdlUvD7q4yUvU=
+		</data>
+		<key>en.lproj/InfoPlist.strings</key>
+		<data>
+		Ztmnj9r5Mxa3xsgY3/F1Mls99uk=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<data>
+		MWff9AfEkc4ihfBns8D1wlyUEp0=
+		</data>
+		<key>en.lproj/MainWindow.nib</key>
+		<data>
+		e5Vl2oZfHyrc1c8BiWsMOX6WGZA=
+		</data>
+		<key>en.lproj/PageFiveViewController.nib</key>
+		<data>
+		88u2YCmGuFGnP8/7J6Z0ymUOzpQ=
+		</data>
+		<key>en.lproj/PageFourViewController.nib</key>
+		<data>
+		SMnB67ApM5SZmOzeEe5l4zXHRe8=
+		</data>
+		<key>en.lproj/PageOneViewController.nib</key>
+		<data>
+		Q/v5Qyjm5t7PWt0j6p2qebD/Fw0=
+		</data>
+		<key>en.lproj/PageThreeViewController.nib</key>
+		<data>
+		1Ptgp+B8j9oi5P9v4gyELizzW30=
+		</data>
+		<key>en.lproj/PageTwoViewController.nib</key>
+		<data>
+		PmlYRALEURIA0NTHlh3W2miDpy0=
+		</data>
+		<key>nolac1.mp3</key>
+		<data>
+		yEttRimp6hcSbm6ICPX4BtAXef0=
+		</data>
+		<key>nolac2.mp3</key>
+		<data>
+		hRqkAVWwq6BBpTQ+vJXFnQxVIAo=
+		</data>
+		<key>nolac3.mp3</key>
+		<data>
+		oQpFc87sl6oWyxyaHhuhNi1JuGk=
+		</data>
+		<key>nolac4.mp3</key>
+		<data>
+		9z+v0vhc0YdmOnw0KY9h25yPdjc=
+		</data>
+		<key>nolac5.mp3</key>
+		<data>
+		PD9WSNfZMHaS/0+zQmno8kF68uk=
+		</data>
+		<key>nolac6.mp3</key>
+		<data>
+		Zbn0udSfyvytPfi4ZQ8H04+45Ms=
+		</data>
+		<key>nolac7.mp3</key>
+		<data>
+		VGzyF4p6ymI6k7UBib3qFzpGkl8=
+		</data>
+		<key>nolac8.mp3</key>
+		<data>
+		nAtsM7F9OjZTNrCDc4BlRBRedeo=
+		</data>
+		<key>nolactable1.png</key>
+		<data>
+		2yMwP/z6NfjGx0CGoW4XqZsKOsI=
+		</data>
+		<key>nolactable2.png</key>
+		<data>
+		4hcXm1/WjkYZdBBU6TL5LQHZZRc=
+		</data>
+		<key>nolactable3.png</key>
+		<data>
+		w0p9nNHBTRss7oVRs4IfpyOg9G0=
+		</data>
+		<key>nolactable4.png</key>
+		<data>
+		gP4u+Vb1/amVFrffkQcnrXrDsnQ=
+		</data>
+		<key>nolactable5.png</key>
+		<data>
+		E3ddYYK/GTYHSts/tHcSHa2PiXU=
+		</data>
+		<key>nolactable6.png</key>
+		<data>
+		gNBR4vBUJ477456WPkCAHUAH+/Q=
+		</data>
+		<key>nolactable7.png</key>
+		<data>
+		iObeU70Xb9y+DFf4SrYbjbQGX5w=
+		</data>
+		<key>nolactable8.png</key>
+		<data>
+		JAmCsp+tr6Ds9CuHMjEEGVkLlvI=
+		</data>
+		<key>pausebutton.png</key>
+		<data>
+		5t4Ps4DLXHeNWHyc2XwY1+LAL7k=
+		</data>
+		<key>recipeEightViewController.nib</key>
+		<data>
+		h7pnDGZjvIdxrxVUqbrry1fpQno=
+		</data>
+		<key>recipeFiveViewController.nib</key>
+		<data>
+		27Z0hTyJ/Pp+6OeDdKZ7Oyt27tc=
+		</data>
+		<key>recipeFourViewController.nib</key>
+		<data>
+		gItuc1FvdzNv3WTig9MjCwGSwlI=
+		</data>
+		<key>recipeOneViewController.nib</key>
+		<data>
+		/DCmLKda8SKf5WBKhS1O9Ic+x6o=
+		</data>
+		<key>recipeSevenViewController.nib</key>
+		<data>
+		gId3wFMxgaasa9wRiClfvmSSSEg=
+		</data>
+		<key>recipeSixViewController.nib</key>
+		<data>
+		EYBVlgmU6rPQ21HsK6MR9WgjIVc=
+		</data>
+		<key>recipeThreeViewController.nib</key>
+		<data>
+		qOW8Q8u7RyCjQ9AtYpIFs/Q4Aro=
+		</data>
+		<key>recipeTwoViewController.nib</key>
+		<data>
+		lJkHtj/lmkMiXlIX9nnJ2Tx1n30=
+		</data>
+		<key>recipetable1.png</key>
+		<data>
+		ppFJ/29LqlKZ50HNiGZo5ScD09w=
+		</data>
+		<key>recipetable2.png</key>
+		<data>
+		H+XJa1haoIN/bqQ7I9BBaTIrDAY=
+		</data>
+		<key>recipetable3.png</key>
+		<data>
+		umLPUngkWcByiZMLudFY7FqhGIg=
+		</data>
+		<key>recipetable4.png</key>
+		<data>
+		FBnB0IYedFkOVfBkQTqcvFtSxak=
+		</data>
+		<key>recipetable5.png</key>
+		<data>
+		he4Ls/ln7XDc9b9RQgzWqb8yjEU=
+		</data>
+		<key>recipetable6.png</key>
+		<data>
+		zMSC2tV3I66x+FJIfA4APok+zd4=
+		</data>
+		<key>recipetable7.png</key>
+		<data>
+		kc4UgxSJXmgKj8dNNwhfIudfs/A=
+		</data>
+		<key>recipetable8.png</key>
+		<data>
+		OgnAse7Lu5b6skPJtaPdLEpb2nM=
+		</data>
+		<key>volume_up.png</key>
+		<data>
+		Wnuk03ZCfZjbpenYQyobhYP81b0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

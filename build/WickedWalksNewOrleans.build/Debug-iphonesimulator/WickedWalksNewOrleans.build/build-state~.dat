@@ -1,0 +1,2496 @@
+TWickedWalksNewOrleans
+v7
+r0
+t298348381.443466
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB0320000000000010F60
+t1242279986
+s69472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004A0BA8D900000000001D7C70
+t1242278105
+s1932400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004A0BC0FF00000000000001D5
+t1242284287
+s469
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004A0BC0FF000000000000017D
+t1242284287
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A0BC11200000000000F36E0
+t1242284306
+s997088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004ABDC9F500000000000120D0
+t1253951989
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004ABDC9F400000000000000EB
+t1253951988
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004ABDC7C800000000001E8300
+t1253951432
+s1999616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004ABDEF7400000000000001D5
+t1253961588
+s469
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004ABDEF74000000000000017D
+t1253961588
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004ABDEF82000000000010EB60
+t1253961602
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.h
+c000000004C16E7C4000000000000010B
+t1276569540
+s267
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.m
+c000000004C16E7C400000000000006C9
+t1276569540
+s1737
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.xib
+c000000004C16DAF40000000000006E7B
+t1276566260
+s28283
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Absinthe Fireplace.png
+c000000004C0AC243000000000004C726
+t1275773507
+s313126
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Absinthe-House-Fireplace-sm.png
+c000000004C0AC22E000000000001FB9C
+t1275773486
+s129948
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.h
+c000000004C16E7C400000000000001A6
+t1276569540
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.m
+c000000004C1824DA000000000000041D
+t1276650714
+s1053
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Background2-1.png
+c000000004C128523000000000002F052
+t1276282147
+s192594
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Charm Gate Sign.png
+c000000004C0AD49E000000000004EE40
+t1275778206
+s323136
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Charm Gate.png
+c000000004C0C675500000000000244C3
+t1275881301
+s148675
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Charm gates sm-1.png
+c000000004C0C673A000000000002066B
+t1275881274
+s132715
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Charm-Gate-Sign-sm.png
+c000000004C0AD4C3000000000002078B
+t1275778243
+s133003
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Constants.h
+c000000004C16E7C40000000000000143
+t1276569540
+s323
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Court of Two Sisters.png
+c000000004C0AD1F9000000000003A34D
+t1275777529
+s238413
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Court-Of-Two-Sisters-Header.png
+c000000004C0AD1AB000000000001AC55
+t1275777451
+s109653
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.h
+c000000004C16E7C50000000000000117
+t1276569541
+s279
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.m
+c000000004C16E7C500000000000006E6
+t1276569541
+s1766
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.xib
+c000000004C16C7E5000000000000A637
+t1276561381
+s42551
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Faulkner House Books.png
+c000000004C0AC60C000000000003FB1D
+t1275774476
+s260893
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Faulkner-Books-sm.png
+c000000004C0AC654000000000001A752
+t1275774548
+s108370
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.h
+c000000004C16E7C50000000000000109
+t1276569541
+s265
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.m
+c000000004C16E7C500000000000006C7
+t1276569541
+s1735
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.xib
+c000000004C152D5E00000000000072EB
+t1276456286
+s29419
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.h
+c000000004C16E7C5000000000000010B
+t1276569541
+s267
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.m
+c000000004C16E7C500000000000006C9
+t1276569541
+s1737
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.xib
+c000000004C152C9A0000000000009CCA
+t1276456090
+s40138
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Jean Lafitte circa 1873-1.png
+c000000004C0D45A3000000000000A398
+t1275938211
+s41880
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Jean Lafitte.png
+c000000004C0D45D20000000000025246
+t1275938258
+s152134
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Blacksmith Shop header.png
+c000000004C0BE592000000000001E580
+t1275848082
+s124288
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Blacksmith Shop.png
+c000000004C0BE6DE000000000001E580
+t1275848414
+s124288
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Fireplace.png
+c000000004C0BE30E00000000000236E4
+t1275847438
+s145124
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's fireplace sm-1.png
+c000000004C0BE2C4000000000001F52B
+t1275847364
+s128299
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.h
+c000000004C0AA2A40000000000000B00
+t1275765412
+s2816
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.m
+c000000004C0AD4EC0000000000000430
+t1275778284
+s1072
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's Balcony.png
+c000000004C0BE97E00000000000205DB
+t1275849086
+s132571
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's Seance Lounge.png
+c000000004C0BE7DA0000000000023462
+t1275848666
+s144482
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's outside sm-1.png
+c000000004C0BE933000000000001BF09
+t1275849011
+s114441
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's sm-1.png
+c000000004C0BFF0F0000000000018031
+t1275854607
+s98353
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's.png
+c000000004C0BFF38000000000001AD83
+t1275854648
+s109955
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe Fire.png
+c000000004C0D47EB000000000002937E
+t1275938795
+s168830
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe House.png
+c000000004C0D43D2000000000001C2FD
+t1275937746
+s115453
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe fireplace sm-1-1.png
+c000000004C0D4777000000000000B2A8
+t1275938679
+s45736
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.h
+c000000004C16E7C50000000000000357
+t1276569541
+s855
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.m
+c000000004C16E7C5000000000000316E
+t1276569541
+s12654
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.h
+c000000004C16E7C50000000000000355
+t1276569541
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.m
+c000000004C16E7C5000000000000317E
+t1276569541
+s12670
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.h
+c000000004C16E7C50000000000000356
+t1276569541
+s854
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.m
+c000000004C16E7C500000000000031BB
+t1276569541
+s12731
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.h
+c000000004C16E7C50000000000000358
+t1276569541
+s856
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.m
+c000000004C16E7C50000000000003198
+t1276569541
+s12696
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.xib
+c000000004C0EF6D4000000000000A10D
+t1276049108
+s41229
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.h
+c000000004C16E7C50000000000000355
+t1276569541
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.m
+c000000004C16E7C5000000000000317C
+t1276569541
+s12668
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.xib
+c000000004C0EEFAD0000000000008E85
+t1276047277
+s36485
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.h
+c000000004C16E7C50000000000000358
+t1276569541
+s856
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.m
+c000000004C16E7C50000000000003178
+t1276569541
+s12664
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.h
+c000000004C16E7C50000000000000354
+t1276569541
+s852
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.m
+c000000004C16E7C50000000000003165
+t1276569541
+s12645
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O'Brien's.png
+c000000004C0ACD8C0000000000018A9E
+t1275776396
+s101022
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's Bathroom.png
+c000000004C0C5CEE000000000001577F
+t1275878638
+s87935
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's Courtyard.png
+c000000004C0C5BC200000000000376E7
+t1275878338
+s227047
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's bathroom sm-1.png
+c000000004C0C5D1D00000000000133EE
+t1275878685
+s78830
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's courtyard sm-1.png
+c000000004C0C5BE30000000000021CD0
+t1275878371
+s138448
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Piano Bar sm-1.png
+c000000004C0C5C5F0000000000019B82
+t1275878495
+s105346
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Piano Bar.png
+c000000004C0C5C7D000000000001CDB4
+t1275878525
+s118196
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's Alley Cafe.png
+c000000004C0C48E5000000000001CF95
+t1275873509
+s118677
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's Alley Lamp Post.png
+c000000004C0ABDDF000000000002E242
+t1275772383
+s188994
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's-Alley-Lamp-sm.png
+c000000004C0AC6B0000000000001094C
+t1275774640
+s67916
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Seance Lounge 2-1.png
+c000000004BD6F84100000000000438BA
+t1272379457
+s276666
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Seance lounge 2 sm.png
+c000000004C0BFD14000000000002C960
+t1275854100
+s182624
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Statue of Jesus sm-1.png
+c000000004C0C3D5B000000000001794D
+t1275870555
+s96589
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Statue of Jesus.png
+c000000004C0AC87C0000000000039800
+t1275775100
+s235520
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/The Lafitte Brothers.png
+c000000004C0BE1D50000000000023312
+t1275847125
+s144146
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.h
+c000000004C16E7C50000000000000109
+t1276569541
+s265
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.m
+c000000004C16E7C500000000000006D4
+t1276569541
+s1748
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.xib
+c000000004C152C710000000000005FB5
+t1276456049
+s24501
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/Yo Mama's.png
+c000000004C0C551F0000000000018C9D
+t1275876639
+s101533
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Absinthe Fireplace.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Absinthe-House-Fireplace-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Background2-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm Gate Sign.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm Gate.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm gates sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm-Gate-Sign-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Court of Two Sisters.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Court-Of-Two-Sisters-Header.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Faulkner House Books.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Faulkner-Books-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Jean Lafitte circa 1873-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Jean Lafitte.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Blacksmith Shop header.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Blacksmith Shop.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Fireplace.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's fireplace sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's Balcony.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's Seance Lounge.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's outside sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe Fire.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe fireplace sm-1-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O'Brien's.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's Bathroom.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's Courtyard.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's bathroom sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's courtyard sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Piano Bar sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Piano Bar.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's Alley Cafe.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's Alley Lamp Post.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's-Alley-Lamp-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance Lounge 2-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance Lounge.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance lounge 2 sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Statue of Jesus sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Statue of Jesus.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/The Lafitte Brothers.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Yo Mama's.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah1.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah2.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah3.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah4.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah5.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah6.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah7.wav
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10bk.png
+t1276646773
+s105392
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10t.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray9.png
+t1276571528
+s6940
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/WickedWalksNewOrleans.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/MainWindow.xib
+c000000004C151D7A000000000000BD25
+t1276452218
+s48421
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFiveViewController.xib
+c000000004C0EF8EE000000000000AE66
+t1276049646
+s44646
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFourViewController.xib
+c000000004C0EF06A000000000000710A
+t1276047466
+s28938
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageOneViewController.xib
+c000000004C0EEFFE000000000000A29B
+t1276047358
+s41627
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageThreeViewController.xib
+c000000004C11B049000000000000B6CB
+t1276227657
+s46795
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageTwoViewController.xib
+c000000004C0C61C4000000000000AEC1
+t1275879876
+s44737
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/images/Seance Lounge.png
+c000000004BD6F84100000000000438BA
+t1272379457
+s276666
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.h
+c000000004C16E7C500000000000001DA
+t1276569541
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.m
+c000000004C16E7C5000000000000227C
+t1276569541
+s8828
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"HoursViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/main.m
+c000000004C16E7C50000000000000177
+t1276569541
+s375
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.h
+c000000004C0463D500000000000002FD
+t1275356117
+s765
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.m
+c000000004C104EC70000000000003D5D
+t1276137159
+s15709
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah1.wav
+c000000004BD504A00000000000F4CE02
+t1272251552
+s16043522
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah2.wav
+c000000004BC8D98A0000000000EF4AA6
+t1271454090
+s15682214
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah3.wav
+c000000004BD99BB400000000016624C4
+t1272552372
+s23471300
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah4.wav
+c000000004BCCCA6C00000000006D3C2C
+t1271712364
+s7158828
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah5.wav
+c000000004BD505100000000000EA52EE
+t1272251664
+s15356654
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah6.wav
+c000000004BCDF9AA0000000000FA2C2C
+t1271789994
+s16395308
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolah7.wav
+c000000004BCF6A9E0000000001033F90
+t1271884446
+s16990096
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable1.png
+c000000004B9577AD0000000000001058
+t1268086701
+s4184
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable2.png
+c000000004B9577D00000000000000EFB
+t1268086736
+s3835
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable3.png
+c000000004B957B8D00000000000010E3
+t1268087693
+s4323
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable4.png
+c000000004B957BB20000000000000DDD
+t1268087730
+s3549
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable5.png
+c000000004B957BD00000000000001025
+t1268087760
+s4133
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable6.png
+c000000004B957DBD000000000000107F
+t1268088253
+s4223
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable7.png
+c000000004BDC602D0000000000000FC5
+t1272733741
+s4037
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.h
+c000000004C04578400000000000001E1
+t1275352964
+s481
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.m
+c000000004C15082F0000000000002004
+t1276446767
+s8196
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.h
+c000000004BD8D28C000000000000031C
+t1272500876
+s796
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.m
+c000000004BD8D34D000000000000028A
+t1272501069
+s650
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.h
+c000000004BD8D28C0000000000000177
+t1272500876
+s375
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.m
+c000000004BD8D3C20000000000000EB3
+t1272501186
+s3763
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwray10.png
+c000000004C16EF5F0000000000001B1C
+t1276571487
+s6940
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwray10bk.png
+c000000004C16F1F30000000000019BB0
+t1276572147
+s105392
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwray10t.png
+c000000004C16EF3C000000000006160B
+t1276571452
+s398859
+
+N/Users/Diane/Desktop/WickedWalksNewOrleans/wwray9.png
+c000000004C15A2FD0000000000001B1C
+t1276486397
+s6940
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch.gch
+t2
+s0
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fhfwnuigxcqrenaxkicwsvhouyzn/Prefix.pch.gch
+t1276650148
+s12948848
+
+NInfo.plist
+c000000004C1824DF00000000000003E7
+t1276650719
+s999
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298348381#298348381#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AboutViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.530677
+e298348333.594624
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AboutViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.m298348333#298348333#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.m4300911832#2168"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AboutViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AppDelegate.o /Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.601481
+e298348332.702463
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AppDelegate.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.m298348332#298348332#0(0"0(0#0#56"/Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.m4300911832#2152"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/AppDelegate.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/DirectionsViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.450826
+e298348333.530575
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/DirectionsViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.m298348333#298348333#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.m4300911832#2178"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/DirectionsViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HelpViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.466234
+e298348333.542329
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HelpViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.m298348333#298348333#0(0"0(0#0#63"/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.m4300911832#2166"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HelpViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HoursViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.542434
+e298348333.603034
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HoursViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.m298348333#298348333#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.m4300911832#2168"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/HoursViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/LargePhotoViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.278243
+e298348333.356721
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/LargePhotoViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.m298348333#298348333#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.m4300911832#2178"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/LargePhotoViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/LargePhotoViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFiveViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.858643
+e298348332.991349
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFiveViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.m298348332#298348333#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.m4300911832#2174"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageFiveViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFiveViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFourViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.736685
+e298348332.887863
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFourViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.m298348332#298348332#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.m4300911832#2174"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageFourViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageFourViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageOneViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.554376
+e298348332.736584
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageOneViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.m298348332#298348332#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.m4300911832#2172"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageOneViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageOneViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSevenViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.182801
+e298348333.319676
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSevenViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.m298348333#298348333#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.m4300911832#2176"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSevenViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSixViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.133428
+e298348333.278132
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSixViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.m298348333#298348333#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.m4300911832#2172"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageSixViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageThreeViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.702557
+e298348332.858397
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageThreeViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.m298348332#298348332#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.m4300911832#2176"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageThreeViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageThreeViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageTwoViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348331.708039
+e298348332.601373
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageTwoViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.m298348331#298348332#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.m4300911832#2172"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/PageTwoViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/PageTwoViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/TipsViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.356822
+e298348333.450728
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/TipsViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.m298348333#298348333#0(0"0(0#0#63"/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.m4300911832#2166"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/TipsViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/infoViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.319774
+e298348333.466130
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/infoViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.m298348333#298348333#0(0"0(0#0#63"/Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.m4300911832#2166"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/infoViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/infoViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/main.o /Users/Diane/Desktop/WickedWalksNewOrleans/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348331.706980
+e298348332.554274
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/main.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/main.m298348331#298348332#0(0"0(0#0#49"/Users/Diane/Desktop/WickedWalksNewOrleans/main.m4300911832#2138"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/main.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/main.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/mapViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.887969
+e298348333.049129
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/mapViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.m298348332#298348333#0(0"0(0#0#62"/Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.m4300911832#2164"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/mapViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/mapViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/tableViewController.o /Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.071416
+e298348333.182700
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/tableViewController.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.m298348333#298348333#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.m4300911832#2168"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/tableViewController.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/tableViewController.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotation.o /Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348332.991449
+e298348333.071301
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotation.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.m298348332#298348333#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.m4300911832#2154"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotation.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotation.o0#
+
+CCompileC build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotationView.o /Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298348333.049244
+e298348333.133321
+r1
+xCompileC
+xbuild/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotationView.o
+x/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.m298348333#298348333#0(0"0(0#0#61"/Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.m4300911832#2162"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -include /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch -c /Users/Diane/Desktop/WickedWalksNewOrleans/wwAnnotationView.m -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/wwAnnotationView.o0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.xib
+s298348331.146712
+e298348331.559015
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.xib
+lSLF07#2@34"CompileXIB AboutViewController.xib298348331#298348331#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.xib4300911832#526"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/AboutViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/AboutViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.xib
+s298348330.732399
+e298348331.146625
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.xib
+lSLF07#2@39"CompileXIB DirectionsViewController.xib298348330#298348331#0(0"0(0#0#71"/Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.xib4300911832#536"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/DirectionsViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/DirectionsViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.xib
+s298348330.873208
+e298348331.261869
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.xib
+lSLF07#2@33"CompileXIB HelpViewController.xib298348330#298348331#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.xib4300911832#524"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/HelpViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/HelpViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.xib
+s298348331.262071
+e298348331.706725
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.xib
+lSLF07#2@34"CompileXIB HoursViewController.xib298348331#298348331#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.xib4300911832#526"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/HoursViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/HoursViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.xib
+s298348330.296136
+e298348330.732312
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.xib
+lSLF07#2@38"CompileXIB PageSevenViewController.xib298348330#298348330#0(0"0(0#0#70"/Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.xib4300911832#534"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PageSevenViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/PageSevenViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.xib
+s298348330.112669
+e298348330.526742
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.xib
+lSLF07#2@36"CompileXIB PageSixViewController.xib298348330#298348330#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.xib4300911832#530"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PageSixViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/PageSixViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.xib
+s298348330.529669
+e298348330.873123
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.xib
+lSLF07#2@33"CompileXIB TipsViewController.xib298348330#298348330#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.xib4300911832#524"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/TipsViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/TipsViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/MainWindow.xib
+s298348329.320223
+e298348329.865364
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib298348329#298348329#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/MainWindow.xib4300911832#526"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/MainWindow.nib /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/MainWindow.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFiveViewController.xib
+s298348327.996010
+e298348329.320141
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFiveViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFiveViewController.xib298348327#298348329#0(0"0(0#0#78"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFiveViewController.xib4300911832#550"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageFiveViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFiveViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFourViewController.xib
+s298348329.273276
+e298348329.683178
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFourViewController.xib
+lSLF07#2@46"CompileXIB en.lproj/PageFourViewController.xib298348329#298348329#0(0"0(0#0#78"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFourViewController.xib4300911832#550"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageFourViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageFourViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageOneViewController.xib
+s298348329.683388
+e298348330.110863
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageOneViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageOneViewController.xib298348329#298348330#0(0"0(0#0#77"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageOneViewController.xib4300911832#548"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageOneViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageOneViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageThreeViewController.xib
+s298348327.995310
+e298348329.273178
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageThreeViewController.xib
+lSLF07#2@47"CompileXIB en.lproj/PageThreeViewController.xib298348327#298348329#0(0"0(0#0#79"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageThreeViewController.xib4300911832#552"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageThreeViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageThreeViewController.xib0#
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageTwoViewController.xib
+s298348329.865448
+e298348330.296040
+r1
+xCompileXIB
+x/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageTwoViewController.xib
+lSLF07#2@45"CompileXIB en.lproj/PageTwoViewController.xib298348329#298348330#0(0"0(0#0#77"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageTwoViewController.xib4300911832#548"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/PageTwoViewController.nib /Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/PageTwoViewController.xib0#
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s298264321.986413
+e298264322.028658
+r1
+xCopyStringsFile
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings298264321#298264322#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#69"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/InfoPlist.strings4300911832#505"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj0#
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s298264321.831727
+e298264321.986210
+r1
+xCopyStringsFile
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings298264321#298264321#0(0"0(0#0#71"/Users/Diane/Desktop/WickedWalksNewOrleans/en.lproj/Localizable.strings4300911832#507"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/en.lproj0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Absinthe Fireplace.png" "Absinthe Fireplace.png"
+s298264326.702934
+e298264327.665690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Absinthe Fireplace.png
+xAbsinthe Fireplace.png
+lSLF07#2@27"Copy Absinthe Fireplace.png298264326#298264327#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalksNewOrleans/Absinthe Fireplace.png4300911832#494"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Absinthe Fireplace.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm Gate Sign.png" "Charm Gate Sign.png"
+s298264327.639543
+e298264327.799136
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm Gate Sign.png
+xCharm Gate Sign.png
+lSLF07#2@24"Copy Charm Gate Sign.png298264327#298264327#0(0"0(0#0#62"/Users/Diane/Desktop/WickedWalksNewOrleans/Charm Gate Sign.png4300911832#491"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Charm Gate Sign.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm Gate.png" "Charm Gate.png"
+s298264327.733765
+e298264327.798855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm Gate.png
+xCharm Gate.png
+lSLF07#2@19"Copy Charm Gate.png298264327#298264327#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalksNewOrleans/Charm Gate.png4300911832#486"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Charm Gate.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm gates sm-1.png" "Charm gates sm-1.png"
+s298264327.739003
+e298264327.798989
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm gates sm-1.png
+xCharm gates sm-1.png
+lSLF07#2@25"Copy Charm gates sm-1.png298264327#298264327#0(0"0(0#0#63"/Users/Diane/Desktop/WickedWalksNewOrleans/Charm gates sm-1.png4300911832#492"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Charm gates sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Court of Two Sisters.png" "Court of Two Sisters.png"
+s298264327.637824
+e298264327.733514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Court of Two Sisters.png
+xCourt of Two Sisters.png
+lSLF07#2@29"Copy Court of Two Sisters.png298264327#298264327#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/Court of Two Sisters.png4300911832#496"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Court of Two Sisters.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Faulkner House Books.png" "Faulkner House Books.png"
+s298264326.703517
+e298264327.637295
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Faulkner House Books.png
+xFaulkner House Books.png
+lSLF07#2@29"Copy Faulkner House Books.png298264326#298264327#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/Faulkner House Books.png4300911832#496"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Faulkner House Books.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Jean Lafitte circa 1873-1.png" "Jean Lafitte circa 1873-1.png"
+s298264327.746413
+e298264327.751103
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Jean Lafitte circa 1873-1.png
+xJean Lafitte circa 1873-1.png
+lSLF07#2@34"Copy Jean Lafitte circa 1873-1.png298264327#298264327#0(0"0(0#0#72"/Users/Diane/Desktop/WickedWalksNewOrleans/Jean Lafitte circa 1873-1.png4300911832#501"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Jean Lafitte circa 1873-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Jean Lafitte.png" "Jean Lafitte.png"
+s298264327.741701
+e298264327.831488
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Jean Lafitte.png
+xJean Lafitte.png
+lSLF07#2@21"Copy Jean Lafitte.png298264327#298264327#0(0"0(0#0#59"/Users/Diane/Desktop/WickedWalksNewOrleans/Jean Lafitte.png4300911832#488"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Jean Lafitte.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Blacksmith Shop header.png" "Lafitte's Blacksmith Shop header.png"
+s298264327.657119
+e298264327.665808
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Blacksmith Shop header.png
+xLafitte's Blacksmith Shop header.png
+lSLF07#2@41"Copy Lafitte's Blacksmith Shop header.png298264327#298264327#0(0"0(0#0#79"/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Blacksmith Shop header.png4300911832#508"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Blacksmith Shop header.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Blacksmith Shop.png" "Lafitte's Blacksmith Shop.png"
+s298264327.655752
+e298264327.669732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Blacksmith Shop.png
+xLafitte's Blacksmith Shop.png
+lSLF07#2@34"Copy Lafitte's Blacksmith Shop.png298264327#298264327#0(0"0(0#0#72"/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Blacksmith Shop.png4300911832#501"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Blacksmith Shop.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Fireplace.png" "Lafitte's Fireplace.png"
+s298264327.665889
+e298264327.711936
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's Fireplace.png
+xLafitte's Fireplace.png
+lSLF07#2@28"Copy Lafitte's Fireplace.png298264327#298264327#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Fireplace.png4300911832#495"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's Fireplace.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's fireplace sm-1.png" "Lafitte's fireplace sm-1.png"
+s298264327.667600
+e298264327.676259
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Lafitte's fireplace sm-1.png
+xLafitte's fireplace sm-1.png
+lSLF07#2@33"Copy Lafitte's fireplace sm-1.png298264327#298264327#0(0"0(0#0#71"/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's fireplace sm-1.png4300911832#500"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Lafitte's fireplace sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's Balcony.png" "Muriel's Balcony.png"
+s298264327.681425
+e298264327.756204
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's Balcony.png
+xMuriel's Balcony.png
+lSLF07#2@25"Copy Muriel's Balcony.png298264327#298264327#0(0"0(0#0#63"/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's Balcony.png4300911832#492"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's Balcony.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's Seance Lounge.png" "Muriel's Seance Lounge.png"
+s298264327.669802
+e298264327.697841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's Seance Lounge.png
+xMuriel's Seance Lounge.png
+lSLF07#2@31"Copy Muriel's Seance Lounge.png298264327#298264327#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's Seance Lounge.png4300911832#498"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's Seance Lounge.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's outside sm-1.png" "Muriel's outside sm-1.png"
+s298264327.682291
+e298264327.690484
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's outside sm-1.png
+xMuriel's outside sm-1.png
+lSLF07#2@30"Copy Muriel's outside sm-1.png298264327#298264327#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's outside sm-1.png4300911832#497"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's outside sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's sm-1.png" "Muriel's sm-1.png"
+s298264327.690577
+e298264327.695293
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's sm-1.png
+xMuriel's sm-1.png
+lSLF07#2@22"Copy Muriel's sm-1.png298264327#298264327#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's sm-1.png4300911832#489"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe Fire.png" "Old Absinthe Fire.png"
+s298264327.751190
+e298264327.809211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe Fire.png
+xOld Absinthe Fire.png
+lSLF07#2@26"Copy Old Absinthe Fire.png298264327#298264327#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe Fire.png4300911832#493"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe Fire.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe House.png" "Old Absinthe House.png"
+s298264327.740916
+e298264327.746235
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe House.png
+xOld Absinthe House.png
+lSLF07#2@27"Copy Old Absinthe House.png298264327#298264327#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe House.png4300911832#494"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe House.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe fireplace sm-1-1.png" "Old Absinthe fireplace sm-1-1.png"
+s298264327.756291
+e298264327.760821
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Old Absinthe fireplace sm-1-1.png
+xOld Absinthe fireplace sm-1-1.png
+lSLF07#2@38"Copy Old Absinthe fireplace sm-1-1.png298264327#298264327#0(0"0(0#0#76"/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe fireplace sm-1-1.png4300911832#505"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Old Absinthe fireplace sm-1-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O'Brien's.png" "Pat O'Brien's.png"
+s298264326.716575
+e298264327.637746
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O'Brien's.png
+xPat O'Brien's.png
+lSLF07#2@22"Copy Pat O'Brien's.png298264326#298264327#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O'Brien's.png4300911832#489"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O'Brien's.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's Bathroom.png" "Pat O's Bathroom.png"
+s298264327.712977
+e298264327.730013
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's Bathroom.png
+xPat O's Bathroom.png
+lSLF07#2@25"Copy Pat O's Bathroom.png298264327#298264327#0(0"0(0#0#63"/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's Bathroom.png4300911832#492"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's Bathroom.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's Courtyard.png" "Pat O's Courtyard.png"
+s298264327.705979
+e298264327.780446
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's Courtyard.png
+xPat O's Courtyard.png
+lSLF07#2@26"Copy Pat O's Courtyard.png298264327#298264327#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's Courtyard.png4300911832#493"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's Courtyard.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's bathroom sm-1.png" "Pat O's bathroom sm-1.png"
+s298264327.718434
+e298264327.729865
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's bathroom sm-1.png
+xPat O's bathroom sm-1.png
+lSLF07#2@30"Copy Pat O's bathroom sm-1.png298264327#298264327#0(0"0(0#0#68"/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's bathroom sm-1.png4300911832#497"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's bathroom sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's courtyard sm-1.png" "Pat O's courtyard sm-1.png"
+s298264327.712142
+e298264327.780208
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pat O's courtyard sm-1.png
+xPat O's courtyard sm-1.png
+lSLF07#2@31"Copy Pat O's courtyard sm-1.png298264327#298264327#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's courtyard sm-1.png4300911832#498"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pat O's courtyard sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Piano Bar sm-1.png" "Piano Bar sm-1.png"
+s298264327.730093
+e298264327.740717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Piano Bar sm-1.png
+xPiano Bar sm-1.png
+lSLF07#2@23"Copy Piano Bar sm-1.png298264327#298264327#0(0"0(0#0#61"/Users/Diane/Desktop/WickedWalksNewOrleans/Piano Bar sm-1.png4300911832#490"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Piano Bar sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Piano Bar.png" "Piano Bar.png"
+s298264327.732675
+e298264327.740844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Piano Bar.png
+xPiano Bar.png
+lSLF07#2@18"Copy Piano Bar.png298264327#298264327#0(0"0(0#0#56"/Users/Diane/Desktop/WickedWalksNewOrleans/Piano Bar.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Piano Bar.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's Alley Cafe.png" "Pirate's Alley Cafe.png"
+s298264327.695382
+e298264327.701174
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's Alley Cafe.png
+xPirate's Alley Cafe.png
+lSLF07#2@28"Copy Pirate's Alley Cafe.png298264327#298264327#0(0"0(0#0#66"/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's Alley Cafe.png4300911832#495"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's Alley Cafe.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's Alley Lamp Post.png" "Pirate's Alley Lamp Post.png"
+s298264326.701791
+e298264327.665444
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's Alley Lamp Post.png
+xPirate's Alley Lamp Post.png
+lSLF07#2@33"Copy Pirate's Alley Lamp Post.png298264326#298264327#0(0"0(0#0#71"/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's Alley Lamp Post.png4300911832#500"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's Alley Lamp Post.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance Lounge 2-1.png" "Seance Lounge 2-1.png"
+s298264327.668929
+e298264327.820943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance Lounge 2-1.png
+xSeance Lounge 2-1.png
+lSLF07#2@26"Copy Seance Lounge 2-1.png298264327#298264327#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/Seance Lounge 2-1.png4300911832#493"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Seance Lounge 2-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance Lounge.png" "images/Seance Lounge.png"
+s298264326.697884
+e298264327.637163
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance Lounge.png
+ximages/Seance Lounge.png
+lSLF07#2@29"Copy images/Seance Lounge.png298264326#298264327#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/images/Seance Lounge.png4300911832#496"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/images/Seance Lounge.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance lounge 2 sm.png" "Seance lounge 2 sm.png"
+s298264327.668228
+e298264327.682223
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Seance lounge 2 sm.png
+xSeance lounge 2 sm.png
+lSLF07#2@27"Copy Seance lounge 2 sm.png298264327#298264327#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalksNewOrleans/Seance lounge 2 sm.png4300911832#494"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Seance lounge 2 sm.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Statue of Jesus sm-1.png" "Statue of Jesus sm-1.png"
+s298264327.697917
+e298264327.712066
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Statue of Jesus sm-1.png
+xStatue of Jesus sm-1.png
+lSLF07#2@29"Copy Statue of Jesus sm-1.png298264327#298264327#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/Statue of Jesus sm-1.png4300911832#496"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Statue of Jesus sm-1.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Statue of Jesus.png" "Statue of Jesus.png"
+s298264326.715694
+e298264327.637634
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Statue of Jesus.png
+xStatue of Jesus.png
+lSLF07#2@24"Copy Statue of Jesus.png298264326#298264327#0(0"0(0#0#62"/Users/Diane/Desktop/WickedWalksNewOrleans/Statue of Jesus.png4300911832#491"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Statue of Jesus.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/The Lafitte Brothers.png" "The Lafitte Brothers.png"
+s298264327.660852
+e298264327.733699
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/The Lafitte Brothers.png
+xThe Lafitte Brothers.png
+lSLF07#2@29"Copy The Lafitte Brothers.png298264327#298264327#0(0"0(0#0#67"/Users/Diane/Desktop/WickedWalksNewOrleans/The Lafitte Brothers.png4300911832#496"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/The Lafitte Brothers.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource "build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Yo Mama's.png" "Yo Mama's.png"
+s298264327.701256
+e298264327.705899
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Yo Mama's.png
+xYo Mama's.png
+lSLF07#2@18"Copy Yo Mama's.png298264327#298264327#0(0"0(0#0#56"/Users/Diane/Desktop/WickedWalksNewOrleans/Yo Mama's.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Diane/Desktop/WickedWalksNewOrleans/Yo Mama's.png" /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Absinthe-House-Fireplace-sm.png Absinthe-House-Fireplace-sm.png
+s298264326.702372
+e298264326.896660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Absinthe-House-Fireplace-sm.png
+xAbsinthe-House-Fireplace-sm.png
+lSLF07#2@36"Copy Absinthe-House-Fireplace-sm.png298264326#298264326#0(0"0(0#0#74"/Users/Diane/Desktop/WickedWalksNewOrleans/Absinthe-House-Fireplace-sm.png4300911832#501"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Absinthe-House-Fireplace-sm.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Background2-1.png Background2-1.png
+s298264328.862441
+e298264328.882815
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Background2-1.png
+xBackground2-1.png
+lSLF07#2@22"Copy Background2-1.png298264328#298264328#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalksNewOrleans/Background2-1.png4300911832#487"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Background2-1.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm-Gate-Sign-sm.png Charm-Gate-Sign-sm.png
+s298264327.644028
+e298264327.718340
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Charm-Gate-Sign-sm.png
+xCharm-Gate-Sign-sm.png
+lSLF07#2@27"Copy Charm-Gate-Sign-sm.png298264327#298264327#0(0"0(0#0#65"/Users/Diane/Desktop/WickedWalksNewOrleans/Charm-Gate-Sign-sm.png4300911832#492"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Charm-Gate-Sign-sm.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Court-Of-Two-Sisters-Header.png Court-Of-Two-Sisters-Header.png
+s298264326.896751
+e298264327.665573
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Court-Of-Two-Sisters-Header.png
+xCourt-Of-Two-Sisters-Header.png
+lSLF07#2@36"Copy Court-Of-Two-Sisters-Header.png298264326#298264327#0(0"0(0#0#74"/Users/Diane/Desktop/WickedWalksNewOrleans/Court-Of-Two-Sisters-Header.png4300911832#501"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Court-Of-Two-Sisters-Header.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Faulkner-Books-sm.png Faulkner-Books-sm.png
+s298264326.704087
+e298264327.637406
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Faulkner-Books-sm.png
+xFaulkner-Books-sm.png
+lSLF07#2@26"Copy Faulkner-Books-sm.png298264326#298264327#0(0"0(0#0#64"/Users/Diane/Desktop/WickedWalksNewOrleans/Faulkner-Books-sm.png4300911832#491"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Faulkner-Books-sm.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Infobutton.png Infobutton.png
+s298264322.199668
+e298264322.204630
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Infobutton.png
+xInfobutton.png
+lSLF07#2@19"Copy Infobutton.png298264322#298264322#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalksNewOrleans/Infobutton.png4300911832#484"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Infobutton.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/MapViewIcon.png MapViewIcon.png
+s298264322.205789
+e298264322.216022
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/MapViewIcon.png
+xMapViewIcon.png
+lSLF07#2@20"Copy MapViewIcon.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/MapViewIcon.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/MapViewIcon.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's.png Muriel's.png
+s298264327.676344
+e298264327.681285
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Muriel's.png
+xMuriel's.png
+lSLF07#2@17"Copy Muriel's.png298264327#298264327#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Muriel's.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed1.png PinDRed1.png
+s298264322.039503
+e298264322.064360
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed1.png
+xPinDRed1.png
+lSLF07#2@17"Copy PinDRed1.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed1.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed1.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed2.png PinDRed2.png
+s298264322.040097
+e298264322.065251
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed2.png
+xPinDRed2.png
+lSLF07#2@17"Copy PinDRed2.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed2.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed2.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed3.png PinDRed3.png
+s298264322.064453
+e298264322.070518
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed3.png
+xPinDRed3.png
+lSLF07#2@17"Copy PinDRed3.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed3.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed3.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed4.png PinDRed4.png
+s298264322.065315
+e298264322.073837
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed4.png
+xPinDRed4.png
+lSLF07#2@17"Copy PinDRed4.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed4.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed4.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed5.png PinDRed5.png
+s298264322.070606
+e298264322.077287
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed5.png
+xPinDRed5.png
+lSLF07#2@17"Copy PinDRed5.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed5.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed5.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed6.png PinDRed6.png
+s298264322.074460
+e298264322.080328
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed6.png
+xPinDRed6.png
+lSLF07#2@17"Copy PinDRed6.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed6.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed6.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed7.png PinDRed7.png
+s298264322.077357
+e298264322.082394
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed7.png
+xPinDRed7.png
+lSLF07#2@17"Copy PinDRed7.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed7.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed7.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed8.png PinDRed8.png
+s298264322.080404
+e298264322.088026
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/PinDRed8.png
+xPinDRed8.png
+lSLF07#2@17"Copy PinDRed8.png298264322#298264322#0(0"0(0#0#55"/Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed8.png4300911832#482"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/PinDRed8.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's-Alley-Lamp-sm.png Pirate's-Alley-Lamp-sm.png
+s298264326.704665
+e298264327.637519
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Pirate's-Alley-Lamp-sm.png
+xPirate's-Alley-Lamp-sm.png
+lSLF07#2@31"Copy Pirate's-Alley-Lamp-sm.png298264326#298264327#0(0"0(0#0#69"/Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's-Alley-Lamp-sm.png4300911832#496"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Pirate's-Alley-Lamp-sm.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Playbutton.png Playbutton.png
+s298264322.082466
+e298264322.087856
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/Playbutton.png
+xPlaybutton.png
+lSLF07#2@19"Copy Playbutton.png298264322#298264322#0(0"0(0#0#57"/Users/Diane/Desktop/WickedWalksNewOrleans/Playbutton.png4300911832#484"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/Playbutton.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/TableViewIcon.png TableViewIcon.png
+s298264322.204710
+e298264322.215891
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/TableViewIcon.png
+xTableViewIcon.png
+lSLF07#2@22"Copy TableViewIcon.png298264322#298264322#0(0"0(0#0#60"/Users/Diane/Desktop/WickedWalksNewOrleans/TableViewIcon.png4300911832#487"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/TableViewIcon.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/bp_btn1.png bp_btn1.png
+s298264322.088095
+e298264322.198700
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/bp_btn1.png
+xbp_btn1.png
+lSLF07#2@16"Copy bp_btn1.png298264322#298264322#0(0"0(0#0#54"/Users/Diane/Desktop/WickedWalksNewOrleans/bp_btn1.png4300911832#481"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/bp_btn1.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/bp_btn2.png bp_btn2.png
+s298264322.088887
+e298264322.205727
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/bp_btn2.png
+xbp_btn2.png
+lSLF07#2@16"Copy bp_btn2.png298264322#298264322#0(0"0(0#0#54"/Users/Diane/Desktop/WickedWalksNewOrleans/bp_btn2.png4300911832#481"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/bp_btn2.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah1.wav nolah1.wav
+s298264322.033251
+e298264325.816079
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah1.wav
+xnolah1.wav
+lSLF07#2@15"Copy nolah1.wav298264322#298264325#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah1.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah1.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah2.wav nolah2.wav
+s298264322.028748
+e298264325.995004
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah2.wav
+xnolah2.wav
+lSLF07#2@15"Copy nolah2.wav298264322#298264325#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah2.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah2.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah3.wav nolah3.wav
+s298264322.029608
+e298264326.697770
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah3.wav
+xnolah3.wav
+lSLF07#2@15"Copy nolah3.wav298264322#298264326#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah3.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah3.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah4.wav nolah4.wav
+s298264322.031168
+e298264324.959975
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah4.wav
+xnolah4.wav
+lSLF07#2@15"Copy nolah4.wav298264322#298264324#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah4.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah4.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah5.wav nolah5.wav
+s298264322.034048
+e298264325.869304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah5.wav
+xnolah5.wav
+lSLF07#2@15"Copy nolah5.wav298264322#298264325#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah5.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah5.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah6.wav nolah6.wav
+s298264322.035602
+e298264325.797464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah6.wav
+xnolah6.wav
+lSLF07#2@15"Copy nolah6.wav298264322#298264325#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah6.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah6.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah7.wav nolah7.wav
+s298264322.037663
+e298264326.274524
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolah7.wav
+xnolah7.wav
+lSLF07#2@15"Copy nolah7.wav298264322#298264326#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/nolah7.wav4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolah7.wav /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable1.png nolahtable1.png
+s298264322.208031
+e298264322.215728
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable1.png
+xnolahtable1.png
+lSLF07#2@20"Copy nolahtable1.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable1.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable1.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable2.png nolahtable2.png
+s298264322.216094
+e298264322.223512
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable2.png
+xnolahtable2.png
+lSLF07#2@20"Copy nolahtable2.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable2.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable2.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable3.png nolahtable3.png
+s298264322.216760
+e298264322.225558
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable3.png
+xnolahtable3.png
+lSLF07#2@20"Copy nolahtable3.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable3.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable3.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable4.png nolahtable4.png
+s298264322.217293
+e298264322.223690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable4.png
+xnolahtable4.png
+lSLF07#2@20"Copy nolahtable4.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable4.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable4.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable5.png nolahtable5.png
+s298264322.223765
+e298264322.230116
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable5.png
+xnolahtable5.png
+lSLF07#2@20"Copy nolahtable5.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable5.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable5.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable6.png nolahtable6.png
+s298264322.224696
+e298264322.231358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable6.png
+xnolahtable6.png
+lSLF07#2@20"Copy nolahtable6.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable6.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable6.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable7.png nolahtable7.png
+s298264322.225623
+e298264322.234399
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/nolahtable7.png
+xnolahtable7.png
+lSLF07#2@20"Copy nolahtable7.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable7.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/nolahtable7.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/pausebutton.png pausebutton.png
+s298264322.083518
+e298264322.198560
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/pausebutton.png
+xpausebutton.png
+lSLF07#2@20"Copy pausebutton.png298264322#298264322#0(0"0(0#0#58"/Users/Diane/Desktop/WickedWalksNewOrleans/pausebutton.png4300911832#485"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/pausebutton.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/volume_up.png volume_up.png
+s298264322.198782
+e298264322.207965
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/volume_up.png
+xvolume_up.png
+lSLF07#2@18"Copy volume_up.png298264322#298264322#0(0"0(0#0#56"/Users/Diane/Desktop/WickedWalksNewOrleans/volume_up.png4300911832#483"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/volume_up.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10.png wwray10.png
+s298264328.867632
+e298264328.878213
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10.png
+xwwray10.png
+lSLF07#2@16"Copy wwray10.png298264328#298264328#0(0"0(0#0#54"/Users/Diane/Desktop/WickedWalksNewOrleans/wwray10.png4300911832#481"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/wwray10.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10bk.png wwray10bk.png
+s298339573.827124
+e298339574.041637
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10bk.png
+xwwray10bk.png
+lSLF07#2@18"Copy wwray10bk.png298339573#298339574#0(0"0(0#0#56"/Users/Diane/Desktop/WickedWalksNewOrleans/wwray10bk.png4300911832#483"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/wwray10bk.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray10t.png wwray10t.png
+r0
+
+CCpResource build/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray9.png wwray9.png
+s298264328.863347
+e298264328.878911
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WickedWalksNewOrleans.app/wwray9.png
+xwwray9.png
+lSLF07#2@15"Copy wwray9.png298264328#298264328#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/wwray9.png4300911832#480"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Diane/Desktop/WickedWalksNewOrleans/wwray9.png /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+
+CGenerateDSYMFile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app.dSYM /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans
+s298348334.099014
+e298348334.168014
+r1
+xGenerateDSYMFile
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app.dSYM
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans
+lSLF07#2@151"GenerateDSYMFile build/Debug-iphonesimulator/WickedWalksNewOrleans.app.dSYM build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans298348334#298348334#0(0"0(0#0#118"/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans4300911832#437"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app.dSYM0#
+
+CLd /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans normal i386
+s298348333.603134
+e298348334.098907
+r1
+xLd
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans
+xnormal
+xi386
+lSLF07#2@123"Link /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans298348333#298348334#0(0"0(0#0#0"4300911832#1022"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -filelist /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/Objects-normal/i386/WickedWalksNewOrleans.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework UIKit -framework CoreGraphics -framework Foundation -framework AVFoundation -framework MapKit -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/WickedWalksNewOrleans0#
+
+CProcessInfoPlistFile /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Info.plist Info.plist
+s298348327.966474
+e298348327.995220
+r1
+xProcessInfoPlistFile
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist298348327#298348327#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/Info.plist21955542111682668#511"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app/Info.plist0#
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298264328.956548
+e298264329.755183
+r1
+xProcessPCH
+x/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch298264328#298264329#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/Prefix.pch4300911832#1990"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -c /Users/Diane/Desktop/WickedWalksNewOrleans/Prefix.pch -o /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-faormstgofiftohfkdbivrrnnorw/Prefix.pch.gch0#
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fhfwnuigxcqrenaxkicwsvhouyzn/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298342948.264262
+e298342948.933278
+r1
+xProcessPCH
+x/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fhfwnuigxcqrenaxkicwsvhouyzn/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch298342948#298342948#0(0"0(0#0#53"/Users/Diane/Desktop/WickedWalksNewOrleans/Prefix.pch4300911832#1988"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Werror -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-generated-files.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-own-target-headers.hmap -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-all-target-headers.hmap -iquote /Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/WickedWalksNewOrleans-project-headers.hmap -F/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/include -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources/i386 -I/Users/Diane/Desktop/WickedWalksNewOrleans/build/WickedWalksNewOrleans.build/Debug-iphonesimulator/WickedWalksNewOrleans.build/DerivedSources -c /Users/Diane/Desktop/WickedWalksNewOrleans/Prefix.pch -o /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fhfwnuigxcqrenaxkicwsvhouyzn/Prefix.pch.gch0#
+
+CTouch /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app
+s298348334.168100
+e298348334.179718
+r1
+xTouch
+x/Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app
+lSLF07#2@102"Touch /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app298348334#298348334#0(0"0(0#0#0"4300911832#300"    cd /Users/Diane/Desktop/WickedWalksNewOrleans    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Diane/Desktop/WickedWalksNewOrleans/build/Debug-iphonesimulator/WickedWalksNewOrleans.app0#
+

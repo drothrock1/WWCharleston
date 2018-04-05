@@ -1,0 +1,2359 @@
+TWickedWalksKeyWest
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C60B8290000000000000132
+t1281407017
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BFDFD850000000000236AB0
+t1274936709
+s2321072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/1790 Inn header-1.png
+c000000004C5CCA2F000000000002328F
+t1281149487
+s144015
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/1790 Inn.png
+c000000004C5F6C800000000000042120
+t1281322112
+s270624
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/1790 Sign sm-1.png
+c000000004C5CCB1E0000000000027E17
+t1281149726
+s163351
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/1790 Sign.png
+c000000004C5CCAFD0000000000039CC2
+t1281149693
+s236738
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/AboutViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/AboutViewController.m
+c000000004C69E23000000000000006CE
+t1282007600
+s1742
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/AboutViewController.xib
+c000000004C69E21400000000000080FD
+t1282007572
+s33021
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/AppDelegate.h
+c000000004C1C330F00000000000001A6
+t1276916495
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/AppDelegate.m
+c000000004C69CBBE000000000000058C
+t1282001854
+s1420
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Cemetery Gate.png
+c000000004C5AE2640000000000054388
+t1281024612
+s344968
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Cemetery Gates sm-1.png
+c000000004C5AE2990000000000021E9A
+t1281024665
+s138906
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Church through branches.png
+c000000004B6AE8FA000000000003AA4E
+t1265297658
+s240206
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Civil War Savannah.png
+c000000004C5DB4E5000000000001B7FC
+t1281209573
+s112636
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Colonial Cemetery Entrance sm-1.png
+c000000004C6DEEB1000000000001B8EC
+t1282272945
+s112876
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Colonial Cemetery Entrance.png
+c000000004C6DEE8F000000000004321C
+t1282272911
+s274972
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Colonial Park Cemetery.png
+c000000004C5AE3B800000000000262F6
+t1281024952
+s156406
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Constants.h
+c000000004C1C330F0000000000000143
+t1276916495
+s323
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/DSC_0243_054_edited-1.jpg
+c000000004C5F7FFF000000000002E816
+t1281327103
+s190486
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Davenport House.png
+c000000004C5CCC79000000000002E400
+t1281150073
+s189440
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Davenport header-1.png
+c000000004C65B9E1000000000001EF09
+t1281735137
+s126729
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Default.png
+c000000004C6F30B5000000000003DF8F
+t1282355381
+s253839
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/DirectionsViewController.h
+c000000004C31DD74000000000000011C
+t1278336372
+s284
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/DirectionsViewController.m
+c000000004C69DED100000000000006EC
+t1282006737
+s1772
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/DirectionsViewController.xib
+c000000004C69DEC3000000000000C1D1
+t1282006723
+s49617
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Duellist's marker sm-1.png
+c000000004C5AEB56000000000001C017
+t1281026902
+s114711
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Duellist's marker.png
+c000000004C5AEB6C000000000001F4DC
+t1281026924
+s128220
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Header1.png
+c000000004C5AF08400000000000471B8
+t1281028228
+s291256
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/HelpViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/HelpViewController.m
+c000000004C32202C00000000000006CC
+t1278353452
+s1740
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/HelpViewController.xib
+c000000004C538CA00000000000007200
+t1280543904
+s29184
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/HoursViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/HoursViewController.m
+c000000004C69E23500000000000006CE
+t1282007605
+s1742
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/HoursViewController.xib
+c000000004C6DDAC8000000000000B3BB
+t1282267848
+s46011
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Icon-72.png
+c000000004C5CC8330000000000002880
+t1281148979
+s10368
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Icon-small-1.png
+c000000004C66D29400000000000006FF
+t1281806996
+s1791
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Icon-small-50.png
+c000000004C5CC816000000000000170E
+t1281148950
+s5902
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Icon.png
+c000000004C5CC7F40000000000001CAA
+t1281148916
+s7338
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Icon2x.png
+c000000004C5CC8560000000000004EEB
+t1281149014
+s20203
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/J Habersham Jr-sm.png
+c000000004C5DB9950000000000019F4E
+t1281210773
+s106318
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/J Habersham Jr.png
+c000000004C5DB9620000000000034622
+t1281210722
+s214562
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/James Oglethorpe sm-1.png
+c000000004C5F1E13000000000002591C
+t1281302035
+s153884
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/James Oglethorpe.png
+c000000004C5F1E2900000000000589FC
+t1281302057
+s363004
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Juliette Low House.png
+c000000004C5DC8230000000000026BB4
+t1281214499
+s158644
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Juliette Low-sm.png
+c000000004C65BFC600000000000295FE
+t1281736646
+s169470
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Juliette Low.png
+c000000004C65BF990000000000034028
+t1281736601
+s213032
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Kehoe House.png
+c000000004C5F6B780000000000046056
+t1281321848
+s286806
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Kehoe house header-1.png
+c000000004C5CCEB20000000000025C32
+t1281150642
+s154674
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Lafitte pirateship.png
+c000000004BD3BAE5000000000000AE86
+t1272167141
+s44678
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/LargePhotoViewController.h
+c000000004C1C330F0000000000000190
+t1276916495
+s400
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/LargePhotoViewController.m
+c000000004C4E424200000000000004C7
+t1280197186
+s1223
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Moon River Brewing Co.png
+c000000004C5DC2C4000000000004F87F
+t1281213124
+s325759
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Moon River header-1.png
+c000000004C5DC1AC000000000001F243
+t1281212844
+s127555
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Moon River upstairs 2 sm-1.png
+c000000004C5DC3EF000000000001A4C0
+t1281213423
+s107712
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Moon River upstairs 2.png
+c000000004C5DC433000000000001DD26
+t1281213491
+s122150
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Moon River upstairs sm-1.png
+c000000004C5DC386000000000001C506
+t1281213318
+s115974
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Moon River upstairs.png
+c000000004C5DC36E000000000001FB85
+t1281213294
+s129925
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Muir altered headstone sm-1.png
+c000000004C5AE4E600000000000201F3
+t1281025254
+s131571
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Muir altered headstone.png
+c000000004C5AE4FD00000000000493C0
+t1281025277
+s299968
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Old Pink House sign sm-1.png
+c000000004C5DBC02000000000001D6F8
+t1281211394
+s120568
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Old Savannah-1.png
+c000000004BDB2632000000000003D619
+t1272653362
+s251417
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Olde Pink House Header.png
+c000000004C5F688700000000000267EC
+t1281321095
+s157676
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Olde Pink House entrance.png
+c000000004C5DB8280000000000043251
+t1281210408
+s275025
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Olde Pink House.png
+c000000004C5F692C000000000004BA64
+t1281321260
+s309860
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Onesime Legriel sm-1.png
+c000000004C5AE81B000000000001F6EC
+t1281026075
+s128748
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Onesime Legriel.png
+c000000004C5AE877000000000002835E
+t1281026167
+s164702
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageEightViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageEightViewController.m
+c000000004C69F9400000000000003312
+t1282013504
+s13074
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageNineViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageEightViewController.xib
+c000000004C69F91C0000000000007199
+t1282013468
+s29081
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageFiveViewController.h
+c000000004C64A3F6000000000000039A
+t1281663990
+s922
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageFiveViewController.m
+c000000004C69FA1400000000000032F9
+t1282013716
+s13049
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageFourViewController.h
+c000000004C64A3F60000000000000399
+t1281663990
+s921
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageFourViewController.m
+c000000004C69F3310000000000003308
+t1282011953
+s13064
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageNineViewController.h
+c000000004C64A2B60000000000000396
+t1281663670
+s918
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageNineViewController.m
+c000000004C6F22CC0000000000003302
+t1282351820
+s13058
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageNineViewController.xib
+c000000004C69F9F500000000000089F3
+t1282013685
+s35315
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageOneViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageOneViewController.m
+c000000004C69F275000000000000334A
+t1282011765
+s13130
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageSevenViewController.h
+c000000004C64A3F6000000000000039C
+t1281663990
+s924
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageSevenViewController.m
+c000000004C6DD97F0000000000003309
+t1282267519
+s13065
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageSevenViewController.xib
+c000000004C6DD8C2000000000000AE58
+t1282267330
+s44632
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageSixViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageSixViewController.m
+c000000004C6DD5C90000000000003305
+t1282266569
+s13061
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageSixViewController.xib
+c000000004C6DD99B000000000000BA1B
+t1282267547
+s47643
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageThreeViewController.h
+c000000004C64A3F6000000000000039D
+t1281663990
+s925
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageThreeViewController.m
+c000000004C69F2710000000000003303
+t1282011761
+s13059
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageTwoViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PageTwoViewController.m
+c000000004C69F27300000000000033B5
+t1282011763
+s13237
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Pirate's House header-1.png
+c000000004C5DAB7000000000000248DF
+t1281207152
+s149727
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Pirate's House outside sm-1.png
+c000000004C5CD60E000000000001C57A
+t1281152526
+s116090
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Pirate's House outside.png
+c000000004C5CD62E000000000003F62C
+t1281152558
+s259628
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/RecipePhotoViewController.h
+c000000004C4E2E9A000000000000019F
+t1280192154
+s415
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/RecipePhotoViewController.m
+c000000004C4E2E9A0000000000000455
+t1280192154
+s1109
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Six Pence Pub header-1.png
+c000000004C5DC5A30000000000025EA6
+t1281213859
+s155302
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Six Pence Pub.png
+c000000004C5DC6AA0000000000036CAC
+t1281214122
+s224428
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/The Pirate's House.png
+c000000004C5DAC0E000000000004E36A
+t1281207310
+s320362
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/TipsViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/TipsViewController.m
+c000000004C69DC5300000000000006DA
+t1282006099
+s1754
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/TipsViewController.xib
+c000000004C69DC19000000000000625E
+t1282006041
+s25182
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Treasure Island art sm.png
+c000000004C5DB0200000000000023B30
+t1281208352
+s146224
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Treasure Island art.png
+c000000004C5DAFFE000000000005E50C
+t1281208318
+s386316
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Treasure Island book cover sm.png
+c000000004C5DAFA90000000000022184
+t1281208233
+s139652
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/Treasure Island book cover.png
+c000000004C5DAEF200000000000528ED
+t1281208050
+s338157
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Inn header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Inn.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Sign sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Sign.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Cemetery Gate.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Cemetery Gates sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Church through branches.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Civil War Savannah.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Colonial Cemetery Entrance sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Colonial Cemetery Entrance.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Colonial Park Cemetery.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/DSC_0243_054_edited-1.jpg
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Davenport House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Davenport header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Default.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Duellist's marker sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Duellist's marker.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Header1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon-72.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon-small-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon-small-50.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon2x.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/J Habersham Jr-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/J Habersham Jr.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/James Oglethorpe sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/James Oglethorpe.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Juliette Low House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Juliette Low-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Juliette Low.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Kehoe House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Kehoe house header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Lafitte pirateship.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River Brewing Co.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs 2 sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs 2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Muir altered headstone sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Muir altered headstone.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Old Pink House sign sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Old Savannah-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Olde Pink House Header.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Olde Pink House entrance.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Olde Pink House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Onesime Legriel sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Onesime Legriel.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PageEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PageNineViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed10.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed11.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed12.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed13.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Pirate's House header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Pirate's House outside sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Pirate's House outside.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Six Pence Pub header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Six Pence Pub.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/The Pirate's House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island art sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island art.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island book cover sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island book cover.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/WickedWalksKeyWest
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/iTunesArtwork.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac1.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac2.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac3.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac4.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac5.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac6.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac7.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac8.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac9.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeNineViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeTenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/recipeTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/RecipePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/WickedWalksKeyWest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeTenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/MainWindow.xib
+c000000004C69C89B000000000000BCD6
+t1282001051
+s48342
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageFiveViewController.xib
+c000000004C69FAEF000000000000A9B6
+t1282013935
+s43446
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageFourViewController.xib
+c000000004C69F3230000000000006F21
+t1282011939
+s28449
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageOneViewController.xib
+c000000004C6F23F4000000000000D3FC
+t1282352116
+s54268
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageThreeViewController.xib
+c000000004C69F2640000000000007256
+t1282011748
+s29270
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageTwoViewController.xib
+c000000004C69F17400000000000085BF
+t1282011508
+s34239
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/iTunesArtwork.png
+c000000004C5CC7DA0000000000026E75
+t1281148890
+s159349
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/infoViewController.h
+c000000004C1C330F00000000000001DA
+t1276916495
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/infoViewController.m
+c000000004C6F30F800000000000022B4
+t1282355448
+s8884
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"HoursViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/main.m
+c000000004C60C3E3000000000000017C
+t1281410019
+s380
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/mapViewController.h
+c000000004C1C377700000000000002F9
+t1276917623
+s761
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/mapViewController.m
+c000000004C69E2CB0000000000004637
+t1282007755
+s17975
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac1.mp3
+c000000004C6016190000000000524230
+t1281365529
+s5390896
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac2.mp3
+c000000004C5F31FE000000000027FE87
+t1281307134
+s2621063
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac3.mp3
+c000000004C65949F0000000000188C44
+t1281725599
+s1608772
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac4.mp3
+c000000004C6593F900000000000AE30A
+t1281725433
+s713482
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac5.mp3
+c000000004C60173900000000002E2E3D
+t1281365817
+s3026493
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac6.mp3
+c000000004C6016F5000000000041001A
+t1281365749
+s4259866
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac7.mp3
+c000000004C6016A500000000002DA1BB
+t1281365669
+s2990523
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac8.mp3
+c000000004C6592F600000000001947F0
+t1281725174
+s1656816
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolac9.mp3
+c000000004C659257000000000024CFC6
+t1281725015
+s2412486
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable1.png
+c000000004BDB20670000000000001008
+t1272651879
+s4104
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable2.png
+c000000004BDB1FA900000000000011A9
+t1272651689
+s4521
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable3.png
+c000000004BDB1F04000000000000115C
+t1272651524
+s4444
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable4.png
+c000000004C65B6FB0000000000000F78
+t1281734395
+s3960
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable5.png
+c000000004BDB1E7C000000000000113C
+t1272651388
+s4412
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable6.png
+c000000004BDB22F4000000000000101B
+t1272652532
+s4123
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable7.png
+c000000004BDB2DCE0000000000001108
+t1272655310
+s4360
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable8.png
+c000000004C5DC6CE0000000000001276
+t1281214158
+s4726
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/nolactable9.png
+c000000004C65BC470000000000001134
+t1281735751
+s4404
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeEightViewController.h
+c000000004C4E2E9A0000000000000146
+t1280192154
+s326
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeEightViewController.m
+c000000004C50E5970000000000000811
+t1280370071
+s2065
+i"recipeEightViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeEightViewController.xib
+c000000004C50E4170000000000006443
+t1280369687
+s25667
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeFiveViewController.h
+c000000004C4E2E9A0000000000000144
+t1280192154
+s324
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeFiveViewController.m
+c000000004C65FB5F0000000000000818
+t1281751903
+s2072
+i"recipeFiveViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeFiveViewController.xib
+c000000004C65F902000000000000630D
+t1281751298
+s25357
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeFourViewController.h
+c000000004C4E2E9A0000000000000144
+t1280192154
+s324
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeFourViewController.m
+c000000004C50E30B0000000000000810
+t1280369419
+s2064
+i"recipeFourViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeFourViewController.xib
+c000000004C50E2F10000000000006309
+t1280369393
+s25353
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeNineViewController.h
+c000000004C4E39EB000000000000013F
+t1280195051
+s319
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeNineViewController.m
+c000000004C50E4A0000000000000080C
+t1280369824
+s2060
+i"recipeNineViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeNineViewController.xib
+c000000004C50E4C200000000000062AE
+t1280369858
+s25262
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeOneViewController.h
+c000000004C4E2E9A0000000000000141
+t1280192154
+s321
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeOneViewController.m
+c000000004C50E1F9000000000000080C
+t1280369145
+s2060
+i"recipeOneViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeOneViewController.xib
+c000000004C50E3000000000000006321
+t1280369408
+s25377
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeSevenViewController.h
+c000000004C4E2E9A0000000000000146
+t1280192154
+s326
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeSevenViewController.m
+c000000004C50E3D70000000000000815
+t1280369623
+s2069
+i"recipeSevenViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeSevenViewController.xib
+c000000004C50E3CC0000000000006336
+t1280369612
+s25398
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeSixViewController.h
+c000000004C4E2E9A0000000000000142
+t1280192154
+s322
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeSixViewController.m
+c000000004C50E39B0000000000000813
+t1280369563
+s2067
+i"recipeSixViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeSixViewController.xib
+c000000004C50E4C60000000000006329
+t1280369862
+s25385
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeTenViewController.h
+c000000004C4E39E6000000000000013D
+t1280195046
+s317
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeTenViewController.m
+c000000004C50E4D60000000000000805
+t1280369878
+s2053
+i"recipeTenViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeTenViewController.xib
+c000000004C50E4BE00000000000062E7
+t1280369854
+s25319
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeThreeViewController.h
+c000000004C4E2E9A0000000000000146
+t1280192154
+s326
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeThreeViewController.m
+c000000004C50E2AD0000000000000817
+t1280369325
+s2071
+i"recipeThreeViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeThreeViewController.xib
+c000000004C50E2FB00000000000063E7
+t1280369403
+s25575
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeTwoViewController.h
+c000000004C4E2E9A0000000000000142
+t1280192154
+s322
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeTwoViewController.m
+c000000004C4F8CF90000000000000811
+t1280281849
+s2065
+i"recipeTwoViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeTwoViewController.xib
+c000000004C50E2FC00000000000062BE
+t1280369404
+s25278
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeViewController.h
+c000000004C4E2E9A00000000000001EC
+t1280192154
+s492
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/recipeViewController.m
+c000000004C4F900500000000000026FA
+t1280282629
+s9978
+i"recipeViewController.h"
+i"recipeOneViewController.h"
+i"recipeTwoViewController.h"
+i"recipeThreeViewController.h"
+i"recipeFourViewController.h"
+i"recipeFiveViewController.h"
+i"recipeSixViewController.h"
+i"recipeSevenViewController.h"
+i"recipeEightViewController.h"
+i"recipeNineViewController.h"
+i"recipeTenViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/tableViewController.h
+c000000004C1C377700000000000001DD
+t1276917623
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/tableViewController.m
+c000000004C69E2CF0000000000002398
+t1282007759
+s9112
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/wwAnnotation.h
+c000000004C4E32DB0000000000000333
+t1280193243
+s819
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/wwAnnotation.m
+c000000004C1C37770000000000000286
+t1276917623
+s646
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/wwAnnotationView.h
+c000000004C1C37780000000000000173
+t1276917624
+s371
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksKeyWest/wwAnnotationView.m
+c000000004C4E31E30000000000001235
+t1280192995
+s4661
+i"wwAnnotationView.h"
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eaaglmuijztzkvgvysrfettsnofu/Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C69C84000000000000003F5
+t1282000960
+s1013
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/AboutViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/AboutViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/AppDelegate.o /Users/Diane/Desktop/WickedWalksKeyWest/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/DirectionsViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/DirectionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/HelpViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/HoursViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/HoursViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/LargePhotoViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/LargePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageEightViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageEightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageFiveViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageFourViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageNineViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageNineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageOneViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageSevenViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageSevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageSixViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageSixViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageThreeViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/PageTwoViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/RecipePhotoViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/RecipePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/TipsViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/TipsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/infoViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/infoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/main.o /Users/Diane/Desktop/WickedWalksKeyWest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/mapViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/mapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeEightViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeEightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeFiveViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeFourViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeNineViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeNineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeOneViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeSevenViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeSevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeSixViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeSixViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeTenViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeTenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeThreeViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeTwoViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/recipeViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/recipeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/tableViewController.o /Users/Diane/Desktop/WickedWalksKeyWest/tableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/wwAnnotation.o /Users/Diane/Desktop/WickedWalksKeyWest/wwAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksKeyWest.build/Distribution-iphonesimulator/WickedWalksKeyWest.build/Objects-normal/i386/wwAnnotationView.o /Users/Diane/Desktop/WickedWalksKeyWest/wwAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/AboutViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/DirectionsViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/HelpViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/HoursViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/PageEightViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/PageNineViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/PageSevenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/PageSixViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/TipsViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageFiveViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageFourViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageOneViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageThreeViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/en.lproj/PageTwoViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeEightViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeFiveViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeFourViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeNineViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeOneViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeSevenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeSixViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeTenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeThreeViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksKeyWest/recipeTwoViewController.xib
+r0
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Inn header-1.png" "1790 Inn header-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Inn.png" "1790 Inn.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Sign sm-1.png" "1790 Sign sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/1790 Sign.png" "1790 Sign.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Cemetery Gate.png" "Cemetery Gate.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Cemetery Gates sm-1.png" "Cemetery Gates sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Church through branches.png" "Church through branches.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Civil War Savannah.png" "Civil War Savannah.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Colonial Cemetery Entrance sm-1.png" "Colonial Cemetery Entrance sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Colonial Cemetery Entrance.png" "Colonial Cemetery Entrance.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Colonial Park Cemetery.png" "Colonial Park Cemetery.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Davenport House.png" "Davenport House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Davenport header-1.png" "Davenport header-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Duellist's marker sm-1.png" "Duellist's marker sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Duellist's marker.png" "Duellist's marker.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/J Habersham Jr-sm.png" "J Habersham Jr-sm.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/J Habersham Jr.png" "J Habersham Jr.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/James Oglethorpe sm-1.png" "James Oglethorpe sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/James Oglethorpe.png" "James Oglethorpe.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Juliette Low House.png" "Juliette Low House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Juliette Low-sm.png" "Juliette Low-sm.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Juliette Low.png" "Juliette Low.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Kehoe House.png" "Kehoe House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Kehoe house header-1.png" "Kehoe house header-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Lafitte pirateship.png" "Lafitte pirateship.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River Brewing Co.png" "Moon River Brewing Co.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River header-1.png" "Moon River header-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs 2 sm-1.png" "Moon River upstairs 2 sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs 2.png" "Moon River upstairs 2.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs sm-1.png" "Moon River upstairs sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Moon River upstairs.png" "Moon River upstairs.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Muir altered headstone sm-1.png" "Muir altered headstone sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Muir altered headstone.png" "Muir altered headstone.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Old Pink House sign sm-1.png" "Old Pink House sign sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Old Savannah-1.png" "Old Savannah-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Olde Pink House Header.png" "Olde Pink House Header.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Olde Pink House entrance.png" "Olde Pink House entrance.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Olde Pink House.png" "Olde Pink House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Onesime Legriel sm-1.png" "Onesime Legriel sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Onesime Legriel.png" "Onesime Legriel.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Pirate's House header-1.png" "Pirate's House header-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Pirate's House outside sm-1.png" "Pirate's House outside sm-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Pirate's House outside.png" "Pirate's House outside.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Six Pence Pub header-1.png" "Six Pence Pub header-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Six Pence Pub.png" "Six Pence Pub.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/The Pirate's House.png" "The Pirate's House.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island art sm.png" "Treasure Island art sm.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island art.png" "Treasure Island art.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island book cover sm.png" "Treasure Island book cover sm.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Treasure Island book cover.png" "Treasure Island book cover.png"
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/DSC_0243_054_edited-1.jpg DSC_0243_054_edited-1.jpg
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Default.png Default.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Header1.png Header1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon-72.png Icon-72.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon-small-1.png Icon-small-1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon-small-50.png Icon-small-50.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon.png Icon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Icon2x.png Icon2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Infobutton.png Infobutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/MapViewIcon.png MapViewIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed1.png PinDRed1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed10.png PinDRed10.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed11.png PinDRed11.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed12.png PinDRed12.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed13.png PinDRed13.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed2.png PinDRed2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed3.png PinDRed3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed4.png PinDRed4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed5.png PinDRed5.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed6.png PinDRed6.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed7.png PinDRed7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed8.png PinDRed8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/PinDRed9.png PinDRed9.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Playbutton.png Playbutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/TableViewIcon.png TableViewIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/bp_btn1.png bp_btn1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/bp_btn2.png bp_btn2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/iTunesArtwork.png iTunesArtwork.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac1.mp3 nolac1.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac2.mp3 nolac2.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac3.mp3 nolac3.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac4.mp3 nolac4.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac5.mp3 nolac5.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac6.mp3 nolac6.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac7.mp3 nolac7.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac8.mp3 nolac8.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolac9.mp3 nolac9.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable1.png nolactable1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable2.png nolactable2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable3.png nolactable3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable4.png nolactable4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable5.png nolactable5.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable6.png nolactable6.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable7.png nolactable7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable8.png nolactable8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/nolactable9.png nolactable9.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/pausebutton.png pausebutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksKeyWest.app/volume_up.png volume_up.png
+r0
+
+CGenerateDSYMFile /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app.dSYM /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/WickedWalksKeyWest
+r0
+
+CLd /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/WickedWalksKeyWest normal i386
+r0
+
+CProcessInfoPlistFile /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-eaaglmuijztzkvgvysrfettsnofu/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Diane/Desktop/WickedWalksKeyWest/build/Distribution-iphonesimulator/WickedWalksKeyWest.app
+r0
+

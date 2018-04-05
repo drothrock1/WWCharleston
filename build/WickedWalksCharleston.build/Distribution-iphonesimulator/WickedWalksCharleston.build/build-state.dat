@@ -1,0 +1,2594 @@
+TWickedWalksCharleston
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C60B8290000000000000132
+t1281407017
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BFDFD850000000000236AB0
+t1274936709
+s2321072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AboutViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AboutViewController.m
+c000000004C69E23000000000000006CE
+t1282007600
+s1742
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AboutViewController.xib
+c000000004CA1404B00000000000082D2
+t1285636171
+s33490
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AppDelegate.h
+c000000004C1C330F00000000000001A6
+t1276916495
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AppDelegate.m
+c000000004C9F79B8000000000000058C
+t1285519800
+s1420
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Constants.h
+c000000004C1C330F0000000000000143
+t1276916495
+s323
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Default.png
+c000000004CA14B7D000000000003664E
+t1285639037
+s222798
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/DirectionsViewController.h
+c000000004C31DD74000000000000011C
+t1278336372
+s284
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/DirectionsViewController.m
+c000000004C9F77FD00000000000006EC
+t1285519357
+s1772
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/DirectionsViewController.xib
+c000000004C9F8A4C000000000000AF08
+t1285524044
+s44808
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Dock Street Theatre.png
+c000000004C71730200000000000208D5
+t1282503426
+s133333
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Dock Street balcony.png
+c000000004C717412000000000003DBD8
+t1282503698
+s252888
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Dock Street sign.png
+c000000004C717464000000000002F3FB
+t1282503780
+s193531
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Header1.png
+c000000004C9BD667000000000003AA15
+t1285281383
+s240149
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HelpViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HelpViewController.m
+c000000004C32202C00000000000006CC
+t1278353452
+s1740
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HelpViewController.xib
+c000000004C538CA00000000000007200
+t1280543904
+s29184
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HoursViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HoursViewController.m
+c000000004C7B0D0700000000000006CE
+t1283132679
+s1742
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HoursViewController.xib
+c000000004C9F76E00000000000005B8C
+t1285519072
+s23436
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Icon-72.png
+c000000004C9FAA320000000000002BD7
+t1285532210
+s11223
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Icon-small-50.png
+c000000004C9FAA7D00000000000018CC
+t1285532285
+s6348
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Icon-small.png
+c000000004C9FAA6600000000000009DF
+t1285532262
+s2527
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Icon.png
+c000000004C787A820000000000001EDC
+t1282964098
+s7900
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Icon@2x.png
+c000000004C9FAA5200000000000055D8
+t1285532242
+s21976
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Junius Booth.png
+c000000004C9B95F00000000000011E4D
+t1285264880
+s73293
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/LargePhotoViewController.h
+c000000004C1C330F0000000000000190
+t1276916495
+s400
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/LargePhotoViewController.m
+c000000004C4E424200000000000004C7
+t1280197186
+s1223
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Lee family plot.png
+c000000004C71788A00000000000263F5
+t1282504842
+s156661
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Mills House Hotel.png
+c000000004C701197000000000001DDDA
+t1282412951
+s122330
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Mills House after fire.png
+c000000004C9B9A6A000000000001297D
+t1285266026
+s76157
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Mills House interior.png
+c000000004C7012D4000000000001A607
+t1282413268
+s108039
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Mills House.jpg
+c000000004C9B9915000000000001DC9C
+t1285265685
+s122012
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Old Exchange Building.png
+c000000004C6FE763000000000001EB50
+t1282402147
+s125776
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Old Exchange at night.png
+c000000004C9BB4A10000000000040BE1
+t1285272737
+s265185
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageEightViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageEightViewController.m
+c000000004C9FAF2D000000000000330A
+t1285533485
+s13066
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageEightViewController.xib
+c000000004C9FAFDF00000000000083AE
+t1285533663
+s33710
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageFiveViewController.h
+c000000004C64A3F6000000000000039A
+t1281663990
+s922
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageFiveViewController.m
+c000000004C9FA81900000000000032F9
+t1285531673
+s13049
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageFourViewController.h
+c000000004C64A3F60000000000000399
+t1281663990
+s921
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageFourViewController.m
+c000000004C9F951B0000000000003309
+t1285526811
+s13065
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageOneViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageOneViewController.m
+c000000004C9F82910000000000003352
+t1285522065
+s13138
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSevenViewController.h
+c000000004C64A3F6000000000000039C
+t1281663990
+s924
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSevenViewController.m
+c000000004C9FAD580000000000003309
+t1285533016
+s13065
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSevenViewController.xib
+c000000004C9FAFF90000000000009A60
+t1285533689
+s39520
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSixViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSixViewController.m
+c000000004CA149570000000000003305
+t1285638487
+s13061
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSixViewController.xib
+c000000004CA148B0000000000000991E
+t1285638320
+s39198
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageThreeViewController.h
+c000000004C64A3F6000000000000039D
+t1281663990
+s925
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageThreeViewController.m
+c000000004C9F90DC0000000000003303
+t1285525724
+s13059
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageTwoViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageTwoViewController.m
+c000000004C9F911500000000000033B5
+t1285525781
+s13237
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Philadelphia Alley .png
+c000000004C6FEB500000000000035AF2
+t1282403152
+s219890
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Philadelphia Alley at night1.png
+c000000004C6C532000000000000257FB
+t1282167584
+s153595
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Philadelphia Alley sign.png
+c000000004C6C53F00000000000034081
+t1282167792
+s213121
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Philadelphia Alley.png
+c000000004C6C563E00000000000506B6
+t1282168382
+s329398
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Pirate fountain.png
+c000000004C6FEE6A0000000000036A99
+t1282403946
+s223897
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Pirates Courtyard gate.png
+c000000004C6FE9D30000000000023CE0
+t1282402771
+s146656
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Pirates Courtyard.png
+c000000004C9B92BB000000000003AA97
+t1285264059
+s240279
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Poogan marker.png
+c000000004C701947000000000002EAD1
+t1282414919
+s191185
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Poogan's Porch at night.png
+c000000004C701792000000000004D7FF
+t1282414482
+s317439
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Poogan's Porch.png
+c000000004C701B9E0000000000025340
+t1282415518
+s152384
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/St Philip's exterior.png
+c000000004C7166A20000000000044B79
+t1282500258
+s281465
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/St Philip's steeple.png
+c000000004C9B6D24000000000001FDD7
+t1285254436
+s130519
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Sue Howard Hardy grave.png
+c000000004C9B6EDE000000000005153A
+t1285254878
+s333114
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Sue Howard ghost, marked-1.png
+c000000004C9B6E020000000000028BF4
+t1285254658
+s166900
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Sue Howard ghost.png
+c000000004C716F5A00000000000296E2
+t1282502490
+s169698
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/TipsViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/TipsViewController.m
+c000000004C9F782E00000000000006D9
+t1285519406
+s1753
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/TipsViewController.xib
+c000000004C9F7435000000000000603B
+t1285518389
+s24635
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Unitarian Church cemetery.png
+c000000004C71792C0000000000027C65
+t1282505004
+s162917
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/Unitarian Church exterior.png
+c000000004C717791000000000004A795
+t1282504593
+s305045
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/White Pt Gardens hanging trees.png
+c000000004C7043BF00000000000387D6
+t1282425791
+s231382
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Default.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Dock Street Theatre.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Dock Street balcony.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Dock Street sign.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Header1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon-72.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon-small-50.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon-small.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon@2x.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Junius Booth.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Lee family plot.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House Hotel.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House after fire.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House interior.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House.jpg
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Old Exchange Building.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Old Exchange at night.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PageEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley .png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley at night1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley sign.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed10.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed11.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed12.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed13.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed9.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Pirate fountain.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Pirates Courtyard gate.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Pirates Courtyard.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Poogan marker.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Poogan's Porch at night.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Poogan's Porch.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/St Philip's exterior.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/St Philip's steeple.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Sue Howard Hardy grave.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Sue Howard ghost, marked-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Sue Howard ghost.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Unitarian Church cemetery.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Unitarian Church exterior.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/White Pt Gardens hanging trees.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/WickedWalksCharleston
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/iTunesartwork.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac1.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac2.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac3.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac4.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac5.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac6.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac7.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac8.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable1.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable2.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable3.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable4.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable5.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable6.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable7.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable8.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/WickedWalksCharleston.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/MainWindow.xib
+c000000004C9F71AA000000000000BD69
+t1285517738
+s48489
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageFiveViewController.xib
+c000000004C9FA87F0000000000009626
+t1285531775
+s38438
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageFourViewController.xib
+c000000004C9F950F000000000000A876
+t1285526799
+s43126
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageOneViewController.xib
+c000000004CA14170000000000000A233
+t1285636464
+s41523
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageThreeViewController.xib
+c000000004C9F9590000000000000AB17
+t1285526928
+s43799
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageTwoViewController.xib
+c000000004C9F8B2800000000000096AE
+t1285524264
+s38574
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/iTunesartwork.png
+c000000004C9FAA1B0000000000024D65
+t1285532187
+s150885
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/infoViewController.h
+c000000004C1C330F00000000000001DA
+t1276916495
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/infoViewController.m
+c000000004CA14C290000000000002081
+t1285639209
+s8321
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/main.m
+c000000004C60C3E3000000000000017C
+t1281410019
+s380
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/mapViewController.h
+c000000004C1C377700000000000002F9
+t1276917623
+s761
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/mapViewController.m
+c000000004CA13EE40000000000004649
+t1285635812
+s17993
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac1.mp3
+c000000004CA11960000000000031E2B6
+t1285626208
+s3269302
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac2.mp3
+c000000004CA11C7F0000000000222553
+t1285627007
+s2237779
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac3.mp3
+c000000004CA11A4100000000002304FF
+t1285626433
+s2295039
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac4.mp3
+c000000004CA115CB000000000022F4AC
+t1285625291
+s2290860
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac5.mp3
+c000000004CA1169B000000000022EE24
+t1285625499
+s2289188
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac6.mp3
+c000000004CA11B5A00000000003341BB
+t1285626714
+s3359163
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac7.mp3
+c000000004CA11DAF00000000003A76A1
+t1285627311
+s3831457
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolac8.mp3
+c000000004CA1181D00000000002A0263
+t1285625885
+s2753123
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable1.png
+c000000004C6FEB3200000000000010B6
+t1282403122
+s4278
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable2.png
+c000000004C7174F900000000000011F7
+t1282503929
+s4599
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable3.png
+c000000004C6FEE4E00000000000011D8
+t1282403918
+s4568
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable4.png
+c000000004C717178000000000000114A
+t1282503032
+s4426
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable5.png
+c000000004C70129D0000000000000F6D
+t1282413213
+s3949
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable6.png
+c000000004C7016830000000000001163
+t1282414211
+s4451
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable7.png
+c000000004C717976000000000000125C
+t1282505078
+s4700
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/nolactable8.png
+c000000004C6FEA450000000000001014
+t1282402885
+s4116
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/tableViewController.h
+c000000004C1C377700000000000001DD
+t1276917623
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/tableViewController.m
+c000000004CA14B360000000000002389
+t1285638966
+s9097
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/wwAnnotation.h
+c000000004C7B05D00000000000000335
+t1283130832
+s821
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/wwAnnotation.m
+c000000004C1C37770000000000000286
+t1276917623
+s646
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/wwAnnotationView.h
+c000000004C1C37780000000000000173
+t1276917624
+s371
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/wwAnnotationView.m
+c000000004C7B05D0000000000000123F
+t1283130832
+s4671
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/AboutViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/AboutViewController.m
+c000000004C69E23000000000000006CE
+t1282007600
+s1742
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/AboutViewController.xib
+c000000004C7B0A900000000000008245
+t1283132048
+s33349
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/AppDelegate.h
+c000000004C1C330F00000000000001A6
+t1276916495
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/AppDelegate.m
+c000000004C80DE0C000000000000058C
+t1283513868
+s1420
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/Constants.h
+c000000004C1C330F0000000000000143
+t1276916495
+s323
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/DirectionsViewController.h
+c000000004C31DD74000000000000011C
+t1278336372
+s284
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/DirectionsViewController.m
+c000000004C7B0A1400000000000006EC
+t1283131924
+s1772
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/DirectionsViewController.xib
+c000000004C7B0A05000000000000B0E7
+t1283131909
+s45287
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/HelpViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/HelpViewController.m
+c000000004C32202C00000000000006CC
+t1278353452
+s1740
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/HelpViewController.xib
+c000000004C538CA00000000000007200
+t1280543904
+s29184
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/HoursViewController.h
+c000000004C31DD740000000000000110
+t1278336372
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/HoursViewController.m
+c000000004C7B0D0700000000000006CE
+t1283132679
+s1742
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/HoursViewController.xib
+c000000004C8057A50000000000005BED
+t1283479461
+s23533
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/LargePhotoViewController.h
+c000000004C1C330F0000000000000190
+t1276916495
+s400
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/LargePhotoViewController.m
+c000000004C4E424200000000000004C7
+t1280197186
+s1223
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageEightViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageEightViewController.m
+c000000004C7C75F9000000000000330A
+t1283225081
+s13066
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageEightViewController.xib
+c000000004C8056D9000000000000B4A7
+t1283479257
+s46247
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageFiveViewController.h
+c000000004C64A3F6000000000000039A
+t1281663990
+s922
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageFiveViewController.m
+c000000004C7C6FC600000000000032F9
+t1283223494
+s13049
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageFourViewController.h
+c000000004C64A3F60000000000000399
+t1281663990
+s921
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageFourViewController.m
+c000000004C7C6FE00000000000003309
+t1283223520
+s13065
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageNineViewController.h
+c000000004C64A2B60000000000000396
+t1281663670
+s918
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageNineViewController.m
+c000000004C6F22CC0000000000003302
+t1282351820
+s13058
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageOneViewController.h
+c000000004C64A3F6000000000000039B
+t1281663990
+s923
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageOneViewController.m
+c000000004C7B141F0000000000003352
+t1283134495
+s13138
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSevenViewController.h
+c000000004C64A3F6000000000000039C
+t1281663990
+s924
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSevenViewController.m
+c000000004C7C73B40000000000003309
+t1283224500
+s13065
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSevenViewController.xib
+c000000004C80569800000000000099C6
+t1283479192
+s39366
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSixViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSixViewController.m
+c000000004C7C71DF0000000000003305
+t1283224031
+s13061
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSixViewController.xib
+c000000004C80562D000000000000AE83
+t1283479085
+s44675
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageThreeViewController.h
+c000000004C64A3F6000000000000039D
+t1281663990
+s925
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageThreeViewController.m
+c000000004C7B1AF90000000000003303
+t1283136249
+s13059
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageTwoViewController.h
+c000000004C64A3F60000000000000398
+t1281663990
+s920
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PageTwoViewController.m
+c000000004C7B17C700000000000033B5
+t1283135431
+s13237
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/TipsViewController.h
+c000000004C31DD74000000000000010E
+t1278336372
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/TipsViewController.m
+c000000004C7B0C9000000000000006D9
+t1283132560
+s1753
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/TipsViewController.xib
+c000000004C7B0D36000000000000603A
+t1283132726
+s24634
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PageEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed10.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed11.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed12.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed13.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/WickedWalksCharleston
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/WickedWalksCharleston.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/MainWindow.xib
+c000000004C805146000000000000BD5F
+t1283477830
+s48479
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageFiveViewController.xib
+c000000004C7C6FBC0000000000009250
+t1283223484
+s37456
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageFourViewController.xib
+c000000004C80557B00000000000084AD
+t1283478907
+s33965
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageOneViewController.xib
+c000000004C7B13DA000000000000B735
+t1283134426
+s46901
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageThreeViewController.xib
+c000000004C7B1AEB000000000000CAF9
+t1283136235
+s51961
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageTwoViewController.xib
+c000000004C7B17A5000000000000C9C2
+t1283135397
+s51650
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/infoViewController.h
+c000000004C1C330F00000000000001DA
+t1276916495
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/infoViewController.m
+c000000004C898EA200000000000022B4
+t1284083362
+s8884
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"HoursViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/main.m
+c000000004C60C3E3000000000000017C
+t1281410019
+s380
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/mapViewController.h
+c000000004C1C377700000000000002F9
+t1276917623
+s761
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/mapViewController.m
+c000000004C9F6E3A000000000000464E
+t1285516858
+s17998
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/nolactable1.png
+c000000004C6C92900000000000001001
+t1282183824
+s4097
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/tableViewController.h
+c000000004C1C377700000000000001DD
+t1276917623
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/tableViewController.m
+c000000004C7B05EE0000000000002373
+t1283130862
+s9075
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/wwAnnotation.h
+c000000004C7B05D00000000000000335
+t1283130832
+s821
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/wwAnnotation.m
+c000000004C1C37770000000000000286
+t1276917623
+s646
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/wwAnnotationView.h
+c000000004C1C37780000000000000173
+t1276917624
+s371
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalks Charleston Dev/wwAnnotationView.m
+c000000004C7B05D0000000000000123F
+t1283130832
+s4671
+i"wwAnnotationView.h"
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cyjrdccorejvstenxskiahmskppo/Prefix.pch.gch
+t2
+s0
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-hidwtsloaazcbgdzgpohzdkihqll/Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C9F70FE00000000000003E7
+t1285517566
+s999
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AboutViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AboutViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AboutViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/AboutViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AppDelegate.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/AppDelegate.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/DirectionsViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/DirectionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/DirectionsViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/DirectionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HelpViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HelpViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HelpViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/HelpViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HoursViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HoursViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/HoursViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/HoursViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/LargePhotoViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/LargePhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/LargePhotoViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/LargePhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageEightViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageEightViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageEightViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageEightViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFiveViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageFiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFiveViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageFiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFourViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageFourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageFourViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageFourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageNineViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageNineViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageOneViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageOneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageOneViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageOneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSevenViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSevenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSevenViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSevenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSixViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageSixViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageThreeViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageThreeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageThreeViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageThreeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageTwoViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageTwoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/PageTwoViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageTwoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/TipsViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/TipsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/TipsViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/TipsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/infoViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/infoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/infoViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/infoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/main.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/main.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/mapViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/mapViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/tableViewController.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/tableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/tableViewController.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/tableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotation.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/wwAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotation.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/wwAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotationView.o "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/wwAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksCharleston.build/Distribution-iphonesimulator/WickedWalksCharleston.build/Objects-normal/i386/wwAnnotationView.o "/Users/Diane/Desktop/WickedWalks Charleston Dev/wwAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/AboutViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/DirectionsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HelpViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/HoursViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageEightViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSevenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/PageSixViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/TipsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageFiveViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageFourViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageOneViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageThreeViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/en.lproj/PageTwoViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/AboutViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/DirectionsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/HelpViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/HoursViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageEightViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSevenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/PageSixViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/TipsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageFiveViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageFourViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageOneViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageThreeViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/WickedWalks Charleston Dev/en.lproj/PageTwoViewController.xib"
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/InfoPlist.strings" en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/InfoPlist.strings" en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Dock Street Theatre.png" "Dock Street Theatre.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Dock Street balcony.png" "Dock Street balcony.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Dock Street sign.png" "Dock Street sign.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Junius Booth.png" "Junius Booth.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Lee family plot.png" "Lee family plot.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House Hotel.png" "Mills House Hotel.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House after fire.png" "Mills House after fire.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House interior.png" "Mills House interior.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Mills House.jpg" "Mills House.jpg"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Old Exchange Building.png" "Old Exchange Building.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Old Exchange at night.png" "Old Exchange at night.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley .png" "Philadelphia Alley .png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley at night1.png" "Philadelphia Alley at night1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley sign.png" "Philadelphia Alley sign.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Philadelphia Alley.png" "Philadelphia Alley.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Pirate fountain.png" "Pirate fountain.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Pirates Courtyard gate.png" "Pirates Courtyard gate.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Pirates Courtyard.png" "Pirates Courtyard.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Poogan marker.png" "Poogan marker.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Poogan's Porch at night.png" "Poogan's Porch at night.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Poogan's Porch.png" "Poogan's Porch.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/St Philip's exterior.png" "St Philip's exterior.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/St Philip's steeple.png" "St Philip's steeple.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Sue Howard Hardy grave.png" "Sue Howard Hardy grave.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Sue Howard ghost, marked-1.png" "Sue Howard ghost, marked-1.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Sue Howard ghost.png" "Sue Howard ghost.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Unitarian Church cemetery.png" "Unitarian Church cemetery.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/Unitarian Church exterior.png" "Unitarian Church exterior.png"
+r0
+
+CCpResource "build/Distribution-iphonesimulator/WickedWalksCharleston.app/White Pt Gardens hanging trees.png" "White Pt Gardens hanging trees.png"
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Default.png Default.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Header1.png Header1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon-72.png Icon-72.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon-small-50.png Icon-small-50.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon-small.png Icon-small.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon.png Icon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Icon@2x.png Icon@2x.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Infobutton.png Infobutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/MapViewIcon.png MapViewIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed1.png PinDRed1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed10.png PinDRed10.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed11.png PinDRed11.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed12.png PinDRed12.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed13.png PinDRed13.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed2.png PinDRed2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed3.png PinDRed3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed4.png PinDRed4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed5.png PinDRed5.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed6.png PinDRed6.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed7.png PinDRed7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed8.png PinDRed8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/PinDRed9.png PinDRed9.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/Playbutton.png Playbutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/TableViewIcon.png TableViewIcon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/bp_btn1.png bp_btn1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/bp_btn2.png bp_btn2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/iTunesartwork.png iTunesartwork.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac1.mp3 nolac1.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac2.mp3 nolac2.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac3.mp3 nolac3.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac4.mp3 nolac4.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac5.mp3 nolac5.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac6.mp3 nolac6.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac7.mp3 nolac7.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolac8.mp3 nolac8.mp3
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable1.png nolactable1.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable2.png nolactable2.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable3.png nolactable3.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable4.png nolactable4.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable5.png nolactable5.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable6.png nolactable6.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable7.png nolactable7.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/nolactable8.png nolactable8.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/pausebutton.png pausebutton.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/WickedWalksCharleston.app/volume_up.png volume_up.png
+r0
+
+CGenerateDSYMFile "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app.dSYM" "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/WickedWalksCharleston"
+r0
+
+CGenerateDSYMFile "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app.dSYM" "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/WickedWalksCharleston"
+r0
+
+CLd "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/WickedWalksCharleston" normal i386
+r0
+
+CLd "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/WickedWalksCharleston" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-cyjrdccorejvstenxskiahmskppo/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-hidwtsloaazcbgdzgpohzdkihqll/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Diane/Desktop/Apps/WickedWalksCharleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app"
+r0
+
+CTouch "/Users/Diane/Desktop/WickedWalks Charleston Dev/build/Distribution-iphonesimulator/WickedWalksCharleston.app"
+r0
+

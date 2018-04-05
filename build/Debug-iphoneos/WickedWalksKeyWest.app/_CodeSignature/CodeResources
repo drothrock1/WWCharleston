@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AboutViewController.nib</key>
+		<data>
+		77rb5KrV9g8PtSTVKm8w9NZOhTc=
+		</data>
+		<key>Artist House at night header.png</key>
+		<data>
+		I7RSS4Mt/e1sEzledicBf5aiaQw=
+		</data>
+		<key>Artist House at night.png</key>
+		<data>
+		F+/PZ0EPFFGT2FcCOWkI3CjJ5xc=
+		</data>
+		<key>Artist House attic sm-1.png</key>
+		<data>
+		A96zeAlwGs8TWe01QXxpQH1ming=
+		</data>
+		<key>Artist House attic.png</key>
+		<data>
+		XYxztPO86NYp0InC1r9DezALQDI=
+		</data>
+		<key>Captain Tony's Saloon.png</key>
+		<data>
+		Rre2Jc08us3Z68bd0OZ/Al5opNQ=
+		</data>
+		<key>Captain Tony's-1.png</key>
+		<data>
+		ydsDWy3KzyzJ0MVbHf2sqctz7Zg=
+		</data>
+		<key>Carl Tanzler sm.png</key>
+		<data>
+		4JhgXGIcWeW6okN+c4sCC60GNYA=
+		</data>
+		<key>Carl Tanzler.png</key>
+		<data>
+		ZepkcApPW7O/95Vn5I+DwQ6H1/0=
+		</data>
+		<key>Cemetery angel sm-1.png</key>
+		<data>
+		fLUTnKmkUKbcXFtI+f7ErTHYTU8=
+		</data>
+		<key>Cemetery angel.png</key>
+		<data>
+		N4ubrBmP8cxQfBAP9bLA7QQuwI4=
+		</data>
+		<key>Chameleon Club at night sm-1.png</key>
+		<data>
+		R4/qHRGPU8u2I03Cx2w6iOoAwwk=
+		</data>
+		<key>Chameleon Club at night.png</key>
+		<data>
+		cqjOfzVWVJKBtF76XUCTP5niLDo=
+		</data>
+		<key>Chameleon Club.png</key>
+		<data>
+		ibe8snrfZ+Fsbc8imWxTDKXKupA=
+		</data>
+		<key>Dean Lopez Funeral Home.png</key>
+		<data>
+		slx5aKk0PZx0Yn7D3IWMd7Wjp2Q=
+		</data>
+		<key>Dean Lopez header-1.png</key>
+		<data>
+		vUXW4qiCJsrOe0R+N+Gy/F3n3dM=
+		</data>
+		<key>DirectionsViewController.nib</key>
+		<data>
+		ECcWtsB6hIqLpyvuIoqp0DwdTo4=
+		</data>
+		<key>Elena Mesa in life sm-1.png</key>
+		<data>
+		OVrGFzUeaqhs8ti5rqtHz8S/ZY0=
+		</data>
+		<key>Elena Mesa in life.png</key>
+		<data>
+		vuIHF/Ht5uogdSFkfREOkgM9giA=
+		</data>
+		<key>Elena, 7 years post mortem.png</key>
+		<data>
+		jBL80doi7Mn8ArrpuU9OXAf6V3Y=
+		</data>
+		<key>Elena, on display.png</key>
+		<data>
+		mtpw9TPf4z1HOsNhC3uWAyXZ1t8=
+		</data>
+		<key>Elvira grave sm.png</key>
+		<data>
+		vuiYoZeScwH9s7iUbvJwC6RxTEM=
+		</data>
+		<key>Elvira grave.png</key>
+		<data>
+		nsBRbqm2mNtAM/ttejPlFghPFZE=
+		</data>
+		<key>Ernest Hemingway,1953-sm.png</key>
+		<data>
+		w5LWLLMW8XoNk+6/eOh0j3gVQos=
+		</data>
+		<key>Gene Otto.png</key>
+		<data>
+		xuEs+wruTa6RMOHnQvi6zLpGG+Q=
+		</data>
+		<key>Hanging Tree sm-1.png</key>
+		<data>
+		2IeqR3yXB2qtpFCxc9ZDk6cmlrs=
+		</data>
+		<key>Hanging Tree.png</key>
+		<data>
+		L8xqQfcGmNQUYmT6GF/jyHfPERg=
+		</data>
+		<key>Hard Rock Cafe.png</key>
+		<data>
+		GeTm1mIdVj1/645XU4gb9f+lsUI=
+		</data>
+		<key>Hard Rock bathroom sm-1.png</key>
+		<data>
+		AtE4+YUfWh4IU9j4oc5N+iWsnQE=
+		</data>
+		<key>Hard Rock bathroom.png</key>
+		<data>
+		yOWKTmkqNJia8KUp9OmaR+uK5ck=
+		</data>
+		<key>Hard Rock exterior.png</key>
+		<data>
+		CKW7Eg7XX1B2YlFrr20g6CwQZWk=
+		</data>
+		<key>Header1.png</key>
+		<data>
+		0C8L/WjfRVc5rtobff3PnjRtEO0=
+		</data>
+		<key>HelpViewController.nib</key>
+		<data>
+		JJz7f/aSFCnPBZAy2Es/NOFjc3I=
+		</data>
+		<key>Hemingway House-sm.png</key>
+		<data>
+		dnYBYSKt/av1An7Xa8HckKtR9gQ=
+		</data>
+		<key>Hemingway House.png</key>
+		<data>
+		hVuZDH7UKH1uxyIAoWbDf0JPeKY=
+		</data>
+		<key>Hemingway, 1953.png</key>
+		<data>
+		I1BsL99LiBrBdo6y4cDlJb4jas4=
+		</data>
+		<key>HoursViewController.nib</key>
+		<data>
+		/2S9Ov870cR0lngnDkaHHTUCz3M=
+		</data>
+		<key>Icon-72old.png</key>
+		<data>
+		2lmVqEN1DdXpQKu6Q1J89UWN1OM=
+		</data>
+		<key>Icon-small-1old.png</key>
+		<data>
+		GuJlCPTG4iPVN0nphj0UtYV+hBY=
+		</data>
+		<key>Icon-small-50old.png</key>
+		<data>
+		EepLPrN54/euIdIXVOLfNqxeoe4=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		ttOcW7UUZicN2hk/gu8kmIboLBQ=
+		</data>
+		<key>Icon2xold.png</key>
+		<data>
+		JTwtS51Di8J5trQKYPojQ3sZfBQ=
+		</data>
+		<key>Infobutton.png</key>
+		<data>
+		lshCVqdz1dBb2j9S5UIKn2pqhyE=
+		</data>
+		<key>La Concha header.png</key>
+		<data>
+		eZnjoapYMNlPYcYc2KL7eXtL4lg=
+		</data>
+		<key>La Concha hotel.png</key>
+		<data>
+		Jm/eC8ahvT6RZX0c4h+DYa1FFas=
+		</data>
+		<key>La Concha interior sm.png</key>
+		<data>
+		q/u9aXvnERbEbLBUV+QEQF+ooPQ=
+		</data>
+		<key>La Concha interior.png</key>
+		<data>
+		bWLP95utcideJ5rdW98gUB+e4x4=
+		</data>
+		<key>La Concha sunset sm-1-2.png</key>
+		<data>
+		Zo49qMliKRlu+0JCjIIgg8SonWk=
+		</data>
+		<key>La Concha sunset.png</key>
+		<data>
+		aSvb94k7CTkhif3xZfMB/ZePMSk=
+		</data>
+		<key>MapViewIcon.png</key>
+		<data>
+		u0Z9VBIrP2KTDdoV+l4+NUdgA3A=
+		</data>
+		<key>PageEightViewController.nib</key>
+		<data>
+		lwPpDzH7+3xT1Kg8coQylc2FI6o=
+		</data>
+		<key>PageSevenViewController.nib</key>
+		<data>
+		D50JEqKLoJaxES8J/3HzirBUZ0Q=
+		</data>
+		<key>PageSixViewController.nib</key>
+		<data>
+		ghaVegVF/GrgwVUln6o5E71z7Qs=
+		</data>
+		<key>PinDRed1.png</key>
+		<data>
+		YjPAG9HQalqR4Y2r47eptTx/aDU=
+		</data>
+		<key>PinDRed10.png</key>
+		<data>
+		AuAuVEEb0HQWhYxuJDprCkoy0lE=
+		</data>
+		<key>PinDRed11.png</key>
+		<data>
+		+l70vqS/3aFm2wLNUOvExvzwSMk=
+		</data>
+		<key>PinDRed12.png</key>
+		<data>
+		raIc2iN0VFfxQH5mFlaF8Aq3UlM=
+		</data>
+		<key>PinDRed13.png</key>
+		<data>
+		+UMMt48Z6SEgVf3mpofim6LW3MM=
+		</data>
+		<key>PinDRed2.png</key>
+		<data>
+		JJFAxwKYknclnOIZLvNWtV9ioRo=
+		</data>
+		<key>PinDRed3.png</key>
+		<data>
+		uPuk6x0mYS9MOJWCTjXGSyL1ruM=
+		</data>
+		<key>PinDRed4.png</key>
+		<data>
+		HHpmPHeSDMAhCS/DQD7V7aKOTAE=
+		</data>
+		<key>PinDRed5.png</key>
+		<data>
+		u8SUN1PmUKBBs8Q+cEkUasp93sI=
+		</data>
+		<key>PinDRed6.png</key>
+		<data>
+		81uPXqhf2YgqSrYUGzVcaLcvOTc=
+		</data>
+		<key>PinDRed7.png</key>
+		<data>
+		gYNzD1D97RFac58+/UIm2kGEla4=
+		</data>
+		<key>PinDRed8.png</key>
+		<data>
+		FPsjFQAugmpKHV22K35+BB11C38=
+		</data>
+		<key>PinDRed9.png</key>
+		<data>
+		NVfZOsIf51joP5rvAWGKUgG5d1A=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Playbutton.png</key>
+		<data>
+		o/pX4q3LpggBQ4iM6HWDKl1siFc=
+		</data>
+		<key>Robert the Doll close-up.png</key>
+		<data>
+		B1LBzZuai9/OvPdLh5IeWdC9L+w=
+		</data>
+		<key>Robert the Doll.png</key>
+		<data>
+		47DgJz+sWG6p8Z5brZOx/KRrroQ=
+		</data>
+		<key>Sloppy Joe's.png</key>
+		<data>
+		P9v1FfbeTcZ8oYPoD3TvFmv2TEA=
+		</data>
+		<key>St Paul's Church.png</key>
+		<data>
+		f6/84uvpncXahXJOGd4Zj0+mFuI=
+		</data>
+		<key>St Paul's exterior sm-1.png</key>
+		<data>
+		z5QekCElDijOY/1mvEggGgNuais=
+		</data>
+		<key>St Paul's exterior.png</key>
+		<data>
+		RZK1r7JxSrcbad9umtOLYloVPCA=
+		</data>
+		<key>TableViewIcon.png</key>
+		<data>
+		4KcgRmdXUN6z8i8KPLbhtKEAn8U=
+		</data>
+		<key>TipsViewController.nib</key>
+		<data>
+		VlYkrR8kXPsmj3vRK5XQvN6AnaU=
+		</data>
+		<key>Tony Tarracino sm.png</key>
+		<data>
+		/YGv/Bw7FpM8Aoj9SH53VFRnq1w=
+		</data>
+		<key>Tony Tarracino.png</key>
+		<data>
+		xEzznuDiMslPCYg2z09Supsg81w=
+		</data>
+		<key>View from balcony sm-1.png</key>
+		<data>
+		rMTzQEcyBu+CAkXDPcUFNaJ8rpE=
+		</data>
+		<key>View from balcony.png</key>
+		<data>
+		ZaPF0s/JS4xxe8/hV5oWC7oClZk=
+		</data>
+		<key>William Curry sm-1.png</key>
+		<data>
+		CDUtaz4YBX9zwBW2wPhESkXhBW4=
+		</data>
+		<key>William Curry.png</key>
+		<data>
+		MMOBU9GzcFGUvOMG/ms+jNT2Kno=
+		</data>
+		<key>bp_btn1.png</key>
+		<data>
+		XXMRQVSxEuUn2p3pXB3ME4qMJnc=
+		</data>
+		<key>bp_btn2.png</key>
+		<data>
+		DC5MWgE5yUzKuxb2FE7v9RBnC1w=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		iVPAD4w2ufC2sE/iyjywnZXx4jY=
+		</data>
+		<key>en.lproj/InfoPlist.strings</key>
+		<data>
+		Ztmnj9r5Mxa3xsgY3/F1Mls99uk=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<data>
+		MWff9AfEkc4ihfBns8D1wlyUEp0=
+		</data>
+		<key>en.lproj/MainWindow.nib</key>
+		<data>
+		rYCf6++3BBXG0wqcFRupZX3asc8=
+		</data>
+		<key>en.lproj/PageFiveViewController.nib</key>
+		<data>
+		XhpZnYppep+XupV76gcFZSAvpqU=
+		</data>
+		<key>en.lproj/PageFourViewController.nib</key>
+		<data>
+		1oVEOWK3dsk5oWpb6fiYh/HggUo=
+		</data>
+		<key>en.lproj/PageOneViewController.nib</key>
+		<data>
+		THWhgEdQaSQSgHaR4icC0R+JlV4=
+		</data>
+		<key>en.lproj/PageThreeViewController.nib</key>
+		<data>
+		LQD/t1j+cuQEJETVXWckxFDEBIo=
+		</data>
+		<key>en.lproj/PageTwoViewController.nib</key>
+		<data>
+		ZC+bJqMmphKgVQZBCDKlrYq1B80=
+		</data>
+		<key>iTunesArtworkold.png</key>
+		<data>
+		9mlY0EkeN79CZf9YuvN2lzP/6Ww=
+		</data>
+		<key>nolac1.mp3</key>
+		<data>
+		40HiIkLo+cFpFokG+KUxEfMWT+s=
+		</data>
+		<key>nolac2.mp3</key>
+		<data>
+		JJEi447UTYjxtsukuhdjllLNcDg=
+		</data>
+		<key>nolac3.mp3</key>
+		<data>
+		Ucb1TIig3JeAGc5pqPAup5bgwe4=
+		</data>
+		<key>nolac4.mp3</key>
+		<data>
+		dKgbMkqnmyD1whhMjtdXvFGBtyQ=
+		</data>
+		<key>nolac5.mp3</key>
+		<data>
+		SKG3zdo084Gt3tvZ8JAc3Z2kz2o=
+		</data>
+		<key>nolac6.mp3</key>
+		<data>
+		EcdQLnD4uccsIsOmwN9sKuIGkAY=
+		</data>
+		<key>nolac7.mp3</key>
+		<data>
+		qvWQ7NiSORF+1Rpx5REKuuxI/Ts=
+		</data>
+		<key>nolac8.mp3</key>
+		<data>
+		Bk4cukdCs/TL/BY/98Zg7/asq60=
+		</data>
+		<key>nolactable1.png</key>
+		<data>
+		olHZwd1KCzx3VKOlV+ZL+vplM5o=
+		</data>
+		<key>nolactable2.png</key>
+		<data>
+		MHraK0eZs1iP9vCk/VZgMN7QOPQ=
+		</data>
+		<key>nolactable3.png</key>
+		<data>
+		JjUuK/EFBafihH34qRTEkmDOzmQ=
+		</data>
+		<key>nolactable4.png</key>
+		<data>
+		3w70H0avkxfi1OVFQOFgaZddflw=
+		</data>
+		<key>nolactable5.png</key>
+		<data>
+		LaURhIAhOiqCSjSxArxwZ8JNT5o=
+		</data>
+		<key>nolactable6.png</key>
+		<data>
+		jnUFMXZYk1HkbJaG5Yh4cbhZdZ4=
+		</data>
+		<key>nolactable7.png</key>
+		<data>
+		Y8LEENeJBEY5cdYY63cYBJRCpZM=
+		</data>
+		<key>nolactable8.png</key>
+		<data>
+		4HWtg8IpkhFhlKTxhPGOlCA2bU4=
+		</data>
+		<key>pausebutton.png</key>
+		<data>
+		5t4Ps4DLXHeNWHyc2XwY1+LAL7k=
+		</data>
+		<key>recipeEightViewController.nib</key>
+		<data>
+		SQ7CvJlD52Aqh8ZxwHKeIcM2H+c=
+		</data>
+		<key>recipeFiveViewController.nib</key>
+		<data>
+		8DdoLJpnivERuexyf596DAjfrsM=
+		</data>
+		<key>recipeFourViewController.nib</key>
+		<data>
+		OoKNdTPhfmO6lJuxB6Dxi4nxH5g=
+		</data>
+		<key>recipeNineViewController.nib</key>
+		<data>
+		gqid5ZDVvR7Fy3P4pcNK2nXQu+c=
+		</data>
+		<key>recipeOneViewController.nib</key>
+		<data>
+		oXguqVOj1UlHlvVNi3W46OuS7lo=
+		</data>
+		<key>recipeSevenViewController.nib</key>
+		<data>
+		nM8prDoWcqAjzcZtOqwMUFPEMAk=
+		</data>
+		<key>recipeSixViewController.nib</key>
+		<data>
+		sPca0hZs2vGCKMoLaTxuJPcTkI4=
+		</data>
+		<key>recipeTenViewController.nib</key>
+		<data>
+		ofzsRaKhafdv3isS6SGQXHh6Pqw=
+		</data>
+		<key>recipeThreeViewController.nib</key>
+		<data>
+		zJL4Nq8b4EqYs6br899iWTNedU0=
+		</data>
+		<key>recipeTwoViewController.nib</key>
+		<data>
+		U2lcxmdq5gGUsjSD1hyfl50O8wk=
+		</data>
+		<key>volume_up.png</key>
+		<data>
+		Wnuk03ZCfZjbpenYQyobhYP81b0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
