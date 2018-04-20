@@ -26,6 +26,36 @@
 		538F313D0D9D5E6A0064A664 /* PageFiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 538F313C0D9D5E6A0064A664 /* PageFiveViewController.m */; };
 		53A79EB90D70DF2A005FAC2C /* PageFourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53A79EB80D70DF2A005FAC2C /* PageFourViewController.m */; };
 		53D090D90FA2391E00BB0543 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		C40A0594208A865200090C65 /* Diane320.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A0588208A865200090C65 /* Diane320.png */; };
+		C40A0595208A865200090C65 /* Dock Street balcony.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A0589208A865200090C65 /* Dock Street balcony.png */; };
+		C40A0596208A865200090C65 /* Dock Street Theatre.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A058A208A865200090C65 /* Dock Street Theatre.png */; };
+		C40A0597208A865200090C65 /* Dock Street sign.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A058B208A865200090C65 /* Dock Street sign.png */; };
+		C40A0598208A865200090C65 /* General Benjamin Lincoln.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A058C208A865200090C65 /* General Benjamin Lincoln.png */; };
+		C40A0599208A865200090C65 /* Hamilton Burr duel.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A058D208A865200090C65 /* Hamilton Burr duel.png */; };
+		C40A059A208A865200090C65 /* Junius Booth.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A058E208A865200090C65 /* Junius Booth.png */; };
+		C40A059B208A865200090C65 /* Lee family plot.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A058F208A865200090C65 /* Lee family plot.png */; };
+		C40A059D208A865200090C65 /* Mills House after fire.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A0591208A865200090C65 /* Mills House after fire.png */; };
+		C40A059E208A865200090C65 /* Mills House interior.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A0592208A865200090C65 /* Mills House interior.png */; };
+		C40A059F208A865200090C65 /* Mills House Hotel.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A0593208A865200090C65 /* Mills House Hotel.png */; };
+		C40A05AB208A86A100090C65 /* Old Exchange at night.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A0208A86A100090C65 /* Old Exchange at night.png */; };
+		C40A05AC208A86A100090C65 /* Old Exchange Building.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A1208A86A100090C65 /* Old Exchange Building.png */; };
+		C40A05AD208A86A100090C65 /* Old Slave Mart.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A2208A86A100090C65 /* Old Slave Mart.png */; };
+		C40A05AE208A86A100090C65 /* Philadelphia Alley at night.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A3208A86A100090C65 /* Philadelphia Alley at night.png */; };
+		C40A05AF208A86A100090C65 /* Philadelphia Alley entrance.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A4208A86A100090C65 /* Philadelphia Alley entrance.png */; };
+		C40A05B0208A86A100090C65 /* Pirate in fountain.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A5208A86A100090C65 /* Pirate in fountain.png */; };
+		C40A05B1208A86A100090C65 /* Pirates Courtyard gate.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A6208A86A100090C65 /* Pirates Courtyard gate.png */; };
+		C40A05B2208A86A100090C65 /* Pirates Courtyard.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A7208A86A100090C65 /* Pirates Courtyard.png */; };
+		C40A05B3208A86A100090C65 /* Poogan's marker.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A8208A86A100090C65 /* Poogan's marker.png */; };
+		C40A05B4208A86A100090C65 /* Poogan's Porch.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05A9208A86A100090C65 /* Poogan's Porch.png */; };
+		C40A05B5208A86A100090C65 /* Poogan's Porch at night.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05AA208A86A100090C65 /* Poogan's Porch at night.png */; };
+		C40A05BE208A86B500090C65 /* Charleston slave sale.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05B6208A86B500090C65 /* Charleston slave sale.png */; };
+		C40A05BF208A86B500090C65 /* Slave sale ledger.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05B7208A86B500090C65 /* Slave sale ledger.png */; };
+		C40A05C0208A86B500090C65 /* St Philip's steeple.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05B8208A86B500090C65 /* St Philip's steeple.png */; };
+		C40A05C1208A86B500090C65 /* Sue Howard Hardy ghost.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05B9208A86B500090C65 /* Sue Howard Hardy ghost.png */; };
+		C40A05C2208A86B500090C65 /* Sue Howard Hardy grave.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05BA208A86B500090C65 /* Sue Howard Hardy grave.png */; };
+		C40A05C3208A86B500090C65 /* Church cemetery.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05BB208A86B500090C65 /* Church cemetery.png */; };
+		C40A05C4208A86B500090C65 /* Unitarian Church exterior.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05BC208A86B500090C65 /* Unitarian Church exterior.png */; };
+		C40A05C5208A86B500090C65 /* White Point Gardens.png in Resources */ = {isa = PBXBuildFile; fileRef = C40A05BD208A86B500090C65 /* White Point Gardens.png */; };
 		C41EFDDB11FE69A00026DD31 /* PinDRed9.png in Resources */ = {isa = PBXBuildFile; fileRef = C41EFDD611FE69A00026DD31 /* PinDRed9.png */; };
 		C41EFDDC11FE69A00026DD31 /* PinDRed10.png in Resources */ = {isa = PBXBuildFile; fileRef = C41EFDD711FE69A00026DD31 /* PinDRed10.png */; };
 		C41EFDDD11FE69A00026DD31 /* PinDRed11.png in Resources */ = {isa = PBXBuildFile; fileRef = C41EFDD811FE69A00026DD31 /* PinDRed11.png */; };
@@ -49,7 +79,6 @@
 		C42BAFB811BF365400D9F604 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C42BAFB611BF365400D9F604 /* AboutViewController.xib */; };
 		C42BAFBC11BF365D00D9F604 /* HoursViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C42BAFBA11BF365D00D9F604 /* HoursViewController.m */; };
 		C42BAFBD11BF365D00D9F604 /* HoursViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C42BAFBB11BF365D00D9F604 /* HoursViewController.xib */; };
-		C44DDAB8124FB19900286547 /* Sue Howard Hardy ghost.png in Resources */ = {isa = PBXBuildFile; fileRef = C44DDA92124FB19900286547 /* Sue Howard Hardy ghost.png */; };
 		C458444C18DA272D006DD276 /* back12.png in Resources */ = {isa = PBXBuildFile; fileRef = C458444B18DA272D006DD276 /* back12.png */; };
 		C458444E18DA2734006DD276 /* forward12.png in Resources */ = {isa = PBXBuildFile; fileRef = C458444D18DA2734006DD276 /* forward12.png */; };
 		C47456D716CAF2DE004FF486 /* PageNineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C47456D516CAF2DE004FF486 /* PageNineViewController.m */; };
@@ -63,14 +92,8 @@
 		C47456EE16CBDDE9004FF486 /* nolactable5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456ED16CBDDE9004FF486 /* nolactable5@2x.png */; };
 		C47456F016CBDDFD004FF486 /* nolactable7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456EF16CBDDFD004FF486 /* nolactable7@2x.png */; };
 		C47456F216CBDE0B004FF486 /* nolactable8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456F116CBDE0B004FF486 /* nolactable8@2x.png */; };
-		C47456FE16CBF17B004FF486 /* InfoScreenC@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456FD16CBF17B004FF486 /* InfoScreenC@2x.png */; };
-		C474570016CBF1D9004FF486 /* InfoScreenC-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456FF16CBF1D8004FF486 /* InfoScreenC-568h@2x.png */; };
 		C474570216CBF2A8004FF486 /* InfoScreenC.png in Resources */ = {isa = PBXBuildFile; fileRef = C474570116CBF2A7004FF486 /* InfoScreenC.png */; };
-		C480AA5A1D9173A7006B2B1B /* Icon180.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AA591D9173A7006B2B1B /* Icon180.png */; };
 		C480AA5C1D917473006B2B1B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C480AA5B1D917473006B2B1B /* Images.xcassets */; };
-		C480AA661D9175D3006B2B1B /* Hamilton-Burr duel.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AA651D9175D3006B2B1B /* Hamilton-Burr duel.png */; };
-		C480AA681D9175F3006B2B1B /* Mills House after fire.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AA671D9175F3006B2B1B /* Mills House after fire.png */; };
-		C480AA6A1D917607006B2B1B /* Poogan's marker.png in Resources */ = {isa = PBXBuildFile; fileRef = C480AA691D917607006B2B1B /* Poogan's marker.png */; };
 		C485162311AE1A6B00549246 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C485162211AE1A6B00549246 /* AVFoundation.framework */; };
 		C485162D11AE1A7C00549246 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C485162C11AE1A7C00549246 /* MapKit.framework */; };
 		C485172B11AF5C6100549246 /* mapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C485172A11AF5C6100549246 /* mapViewController.m */; };
@@ -97,49 +120,14 @@
 		C4851C5511B5E14B00549246 /* PageSixViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4851C5311B5E14B00549246 /* PageSixViewController.xib */; };
 		C4851C6711B5E19800549246 /* PageSevenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4851C6511B5E19800549246 /* PageSevenViewController.m */; };
 		C4851C6811B5E19800549246 /* PageSevenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4851C6611B5E19800549246 /* PageSevenViewController.xib */; };
-		C495C1A016CC052A00B89748 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C19F16CC052A00B89748 /* Icon-72.png */; };
-		C495C1A216CC053200B89748 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1A116CC053200B89748 /* Icon-72@2x.png */; };
-		C495C1A616CC054000B89748 /* Icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1A516CC054000B89748 /* Icon-small.png */; };
 		C495C1A816CC054A00B89748 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1A716CC054A00B89748 /* Icon.png */; };
 		C495C1AA16CC055400B89748 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1A916CC055400B89748 /* Icon@2x.png */; };
-		C495C1AE16CC058100B89748 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1AD16CC058100B89748 /* iTunesArtwork@2x.png */; };
-		C495C1B216CC065500B89748 /* Church cemetery.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1B116CC065500B89748 /* Church cemetery.png */; };
-		C495C1B416CC065F00B89748 /* Dock Street balcony.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1B316CC065F00B89748 /* Dock Street balcony.png */; };
-		C495C1B616CC066600B89748 /* Dock Street sign.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1B516CC066600B89748 /* Dock Street sign.png */; };
-		C495C1BA16CC068100B89748 /* General Benjamin Lincoln.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1B916CC068100B89748 /* General Benjamin Lincoln.png */; };
-		C495C1BC16CC069900B89748 /* Junius Booth.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1BB16CC069900B89748 /* Junius Booth.png */; };
-		C495C1BE16CC06A700B89748 /* Lee family plot.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1BD16CC06A700B89748 /* Lee family plot.png */; };
-		C495C1C016CC06B100B89748 /* Mills House Hotel.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1BF16CC06B100B89748 /* Mills House Hotel.png */; };
-		C495C1C216CC06B800B89748 /* Mills House interior.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1C116CC06B800B89748 /* Mills House interior.png */; };
-		C495C1C416CC06CD00B89748 /* Old Exchange at night.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1C316CC06CD00B89748 /* Old Exchange at night.png */; };
-		C495C1CE16CC06FC00B89748 /* Old Slave Mart.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1CD16CC06FC00B89748 /* Old Slave Mart.png */; };
-		C495C1D416CC071800B89748 /* Philadelphia Alley at night.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1D316CC071800B89748 /* Philadelphia Alley at night.png */; };
-		C495C1D816CC073100B89748 /* Pirates Courtyard gate.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1D716CC073100B89748 /* Pirates Courtyard gate.png */; };
-		C495C1DA16CC073C00B89748 /* Pirates Courtyard.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1D916CC073C00B89748 /* Pirates Courtyard.png */; };
-		C495C1DE16CC075400B89748 /* Poogan's Porch at night.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1DD16CC075400B89748 /* Poogan's Porch at night.png */; };
-		C495C1E016CC075C00B89748 /* Poogan's Porch.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1DF16CC075C00B89748 /* Poogan's Porch.png */; };
-		C495C1E216CC076900B89748 /* Charleston slave sale.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1E116CC076900B89748 /* Charleston slave sale.png */; };
-		C495C1E416CC077100B89748 /* Slave sale ledger.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1E316CC077100B89748 /* Slave sale ledger.png */; };
-		C495C1E616CC078500B89748 /* St Philip's steeple.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1E516CC078500B89748 /* St Philip's steeple.png */; };
-		C495C1E816CC079400B89748 /* Sue Howard Hardy grave.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1E716CC079400B89748 /* Sue Howard Hardy grave.png */; };
-		C495C1EA16CC07A800B89748 /* Unitarian Church exterior.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1E916CC07A800B89748 /* Unitarian Church exterior.png */; };
-		C495C1EC16CC07B100B89748 /* White Point Gardens.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1EB16CC07B100B89748 /* White Point Gardens.png */; };
-		C495C1EE16CC08F600B89748 /* Dock Street Theatre .png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1ED16CC08F600B89748 /* Dock Street Theatre .png */; };
-		C495C1F016CC0A7B00B89748 /* Philadelphia Alley entrance.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1EF16CC0A7B00B89748 /* Philadelphia Alley entrance.png */; };
-		C495C1F216CC0ADE00B89748 /* Pirate in fountain.png in Resources */ = {isa = PBXBuildFile; fileRef = C495C1F116CC0ADE00B89748 /* Pirate in fountain.png */; };
 		C4A5B8E011CC5D2C00BDE06F /* PageEightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A5B8DE11CC5D2C00BDE06F /* PageEightViewController.m */; };
 		C4A5B8E111CC5D2C00BDE06F /* PageEightViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4A5B8DF11CC5D2C00BDE06F /* PageEightViewController.xib */; };
 		C4B60F1718C5106200ABA92F /* Icon40.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F1618C5106000ABA92F /* Icon40.png */; };
-		C4B60F1918C5107100ABA92F /* Icon58.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F1818C5107100ABA92F /* Icon58.png */; };
-		C4B60F1B18C5109100ABA92F /* Icon76.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F1A18C5109100ABA92F /* Icon76.png */; };
-		C4B60F1D18C5109C00ABA92F /* Icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F1C18C5109C00ABA92F /* Icon80.png */; };
-		C4B60F1F18C510A600ABA92F /* Icon120.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F1E18C510A500ABA92F /* Icon120.png */; };
-		C4B60F2118C510BB00ABA92F /* Icon152.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F2018C510BB00ABA92F /* Icon152.png */; };
-		C4D6166B1D902363007C9DBE /* Old Exchange Building.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D6166A1D902363007C9DBE /* Old Exchange Building.png */; };
 		C4D6166D1D90281E007C9DBE /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D6166C1D90281E007C9DBE /* Default@2x.png */; };
 		C4D6166F1D90283B007C9DBE /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D6166E1D90283B007C9DBE /* Default.png */; };
 		C4D616711D902849007C9DBE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D616701D902849007C9DBE /* Default-568h@2x.png */; };
-		C4DF9D7C1D8C914600CB5354 /* Diane.png in Resources */ = {isa = PBXBuildFile; fileRef = C4DF9D7B1D8C914600CB5354 /* Diane.png */; };
 		C4E93FB011BAB87F0021141A /* LargePhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E93FAF11BAB87F0021141A /* LargePhotoViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -173,6 +161,36 @@
 		53A79EB70D70DF2A005FAC2C /* PageFourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageFourViewController.h; sourceTree = "<group>"; };
 		53A79EB80D70DF2A005FAC2C /* PageFourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageFourViewController.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C40A0588208A865200090C65 /* Diane320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Diane320.png; sourceTree = "<group>"; };
+		C40A0589208A865200090C65 /* Dock Street balcony.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dock Street balcony.png"; sourceTree = "<group>"; };
+		C40A058A208A865200090C65 /* Dock Street Theatre.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dock Street Theatre.png"; sourceTree = "<group>"; };
+		C40A058B208A865200090C65 /* Dock Street sign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dock Street sign.png"; sourceTree = "<group>"; };
+		C40A058C208A865200090C65 /* General Benjamin Lincoln.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "General Benjamin Lincoln.png"; sourceTree = "<group>"; };
+		C40A058D208A865200090C65 /* Hamilton Burr duel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hamilton Burr duel.png"; sourceTree = "<group>"; };
+		C40A058E208A865200090C65 /* Junius Booth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Junius Booth.png"; sourceTree = "<group>"; };
+		C40A058F208A865200090C65 /* Lee family plot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lee family plot.png"; sourceTree = "<group>"; };
+		C40A0591208A865200090C65 /* Mills House after fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mills House after fire.png"; sourceTree = "<group>"; };
+		C40A0592208A865200090C65 /* Mills House interior.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mills House interior.png"; sourceTree = "<group>"; };
+		C40A0593208A865200090C65 /* Mills House Hotel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mills House Hotel.png"; sourceTree = "<group>"; };
+		C40A05A0208A86A100090C65 /* Old Exchange at night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Old Exchange at night.png"; sourceTree = "<group>"; };
+		C40A05A1208A86A100090C65 /* Old Exchange Building.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Old Exchange Building.png"; sourceTree = "<group>"; };
+		C40A05A2208A86A100090C65 /* Old Slave Mart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Old Slave Mart.png"; sourceTree = "<group>"; };
+		C40A05A3208A86A100090C65 /* Philadelphia Alley at night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Philadelphia Alley at night.png"; sourceTree = "<group>"; };
+		C40A05A4208A86A100090C65 /* Philadelphia Alley entrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Philadelphia Alley entrance.png"; sourceTree = "<group>"; };
+		C40A05A5208A86A100090C65 /* Pirate in fountain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pirate in fountain.png"; sourceTree = "<group>"; };
+		C40A05A6208A86A100090C65 /* Pirates Courtyard gate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pirates Courtyard gate.png"; sourceTree = "<group>"; };
+		C40A05A7208A86A100090C65 /* Pirates Courtyard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pirates Courtyard.png"; sourceTree = "<group>"; };
+		C40A05A8208A86A100090C65 /* Poogan's marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poogan's marker.png"; sourceTree = "<group>"; };
+		C40A05A9208A86A100090C65 /* Poogan's Porch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poogan's Porch.png"; sourceTree = "<group>"; };
+		C40A05AA208A86A100090C65 /* Poogan's Porch at night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poogan's Porch at night.png"; sourceTree = "<group>"; };
+		C40A05B6208A86B500090C65 /* Charleston slave sale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Charleston slave sale.png"; sourceTree = "<group>"; };
+		C40A05B7208A86B500090C65 /* Slave sale ledger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Slave sale ledger.png"; sourceTree = "<group>"; };
+		C40A05B8208A86B500090C65 /* St Philip's steeple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "St Philip's steeple.png"; sourceTree = "<group>"; };
+		C40A05B9208A86B500090C65 /* Sue Howard Hardy ghost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sue Howard Hardy ghost.png"; sourceTree = "<group>"; };
+		C40A05BA208A86B500090C65 /* Sue Howard Hardy grave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sue Howard Hardy grave.png"; sourceTree = "<group>"; };
+		C40A05BB208A86B500090C65 /* Church cemetery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Church cemetery.png"; sourceTree = "<group>"; };
+		C40A05BC208A86B500090C65 /* Unitarian Church exterior.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Unitarian Church exterior.png"; sourceTree = "<group>"; };
+		C40A05BD208A86B500090C65 /* White Point Gardens.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "White Point Gardens.png"; sourceTree = "<group>"; };
 		C41EFDD611FE69A00026DD31 /* PinDRed9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed9.png; sourceTree = "<group>"; };
 		C41EFDD711FE69A00026DD31 /* PinDRed10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed10.png; sourceTree = "<group>"; };
 		C41EFDD811FE69A00026DD31 /* PinDRed11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PinDRed11.png; sourceTree = "<group>"; };
@@ -202,7 +220,6 @@
 		C42BAFB911BF365D00D9F604 /* HoursViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HoursViewController.h; sourceTree = "<group>"; };
 		C42BAFBA11BF365D00D9F604 /* HoursViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HoursViewController.m; sourceTree = "<group>"; };
 		C42BAFBB11BF365D00D9F604 /* HoursViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HoursViewController.xib; sourceTree = "<group>"; };
-		C44DDA92124FB19900286547 /* Sue Howard Hardy ghost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sue Howard Hardy ghost.png"; sourceTree = "<group>"; };
 		C44DDC50125188A100286547 /* WickedWalksCharleston.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WickedWalksCharleston.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C458444B18DA272D006DD276 /* back12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back12.png; sourceTree = "<group>"; };
 		C458444D18DA2734006DD276 /* forward12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forward12.png; sourceTree = "<group>"; };
@@ -218,14 +235,8 @@
 		C47456ED16CBDDE9004FF486 /* nolactable5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nolactable5@2x.png"; sourceTree = "<group>"; };
 		C47456EF16CBDDFD004FF486 /* nolactable7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nolactable7@2x.png"; sourceTree = "<group>"; };
 		C47456F116CBDE0B004FF486 /* nolactable8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nolactable8@2x.png"; sourceTree = "<group>"; };
-		C47456FD16CBF17B004FF486 /* InfoScreenC@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreenC@2x.png"; sourceTree = "<group>"; };
-		C47456FF16CBF1D8004FF486 /* InfoScreenC-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreenC-568h@2x.png"; sourceTree = "<group>"; };
 		C474570116CBF2A7004FF486 /* InfoScreenC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreenC.png; sourceTree = "<group>"; };
-		C480AA591D9173A7006B2B1B /* Icon180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon180.png; sourceTree = "<group>"; };
 		C480AA5B1D917473006B2B1B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WickedWalksCharleston/Images.xcassets; sourceTree = "<group>"; };
-		C480AA651D9175D3006B2B1B /* Hamilton-Burr duel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hamilton-Burr duel.png"; sourceTree = "<group>"; };
-		C480AA671D9175F3006B2B1B /* Mills House after fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mills House after fire.png"; sourceTree = "<group>"; };
-		C480AA691D917607006B2B1B /* Poogan's marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poogan's marker.png"; sourceTree = "<group>"; };
 		C485162211AE1A6B00549246 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		C485162C11AE1A7C00549246 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		C485172911AF5C6100549246 /* mapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mapViewController.h; sourceTree = "<group>"; };
@@ -258,50 +269,15 @@
 		C4851C6411B5E19800549246 /* PageSevenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageSevenViewController.h; sourceTree = "<group>"; };
 		C4851C6511B5E19800549246 /* PageSevenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageSevenViewController.m; sourceTree = "<group>"; };
 		C4851C6611B5E19800549246 /* PageSevenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PageSevenViewController.xib; sourceTree = "<group>"; };
-		C495C19F16CC052A00B89748 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
-		C495C1A116CC053200B89748 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
-		C495C1A516CC054000B89748 /* Icon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-small.png"; sourceTree = "<group>"; };
 		C495C1A716CC054A00B89748 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		C495C1A916CC055400B89748 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
-		C495C1AD16CC058100B89748 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
-		C495C1B116CC065500B89748 /* Church cemetery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Church cemetery.png"; sourceTree = "<group>"; };
-		C495C1B316CC065F00B89748 /* Dock Street balcony.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dock Street balcony.png"; sourceTree = "<group>"; };
-		C495C1B516CC066600B89748 /* Dock Street sign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dock Street sign.png"; sourceTree = "<group>"; };
-		C495C1B916CC068100B89748 /* General Benjamin Lincoln.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "General Benjamin Lincoln.png"; sourceTree = "<group>"; };
-		C495C1BB16CC069900B89748 /* Junius Booth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Junius Booth.png"; sourceTree = "<group>"; };
-		C495C1BD16CC06A700B89748 /* Lee family plot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lee family plot.png"; sourceTree = "<group>"; };
-		C495C1BF16CC06B100B89748 /* Mills House Hotel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mills House Hotel.png"; sourceTree = "<group>"; };
-		C495C1C116CC06B800B89748 /* Mills House interior.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mills House interior.png"; sourceTree = "<group>"; };
-		C495C1C316CC06CD00B89748 /* Old Exchange at night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Old Exchange at night.png"; sourceTree = "<group>"; };
-		C495C1CD16CC06FC00B89748 /* Old Slave Mart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Old Slave Mart.png"; sourceTree = "<group>"; };
-		C495C1D316CC071800B89748 /* Philadelphia Alley at night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Philadelphia Alley at night.png"; sourceTree = "<group>"; };
-		C495C1D716CC073100B89748 /* Pirates Courtyard gate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pirates Courtyard gate.png"; sourceTree = "<group>"; };
-		C495C1D916CC073C00B89748 /* Pirates Courtyard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pirates Courtyard.png"; sourceTree = "<group>"; };
-		C495C1DD16CC075400B89748 /* Poogan's Porch at night.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poogan's Porch at night.png"; sourceTree = "<group>"; };
-		C495C1DF16CC075C00B89748 /* Poogan's Porch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poogan's Porch.png"; sourceTree = "<group>"; };
-		C495C1E116CC076900B89748 /* Charleston slave sale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Charleston slave sale.png"; sourceTree = "<group>"; };
-		C495C1E316CC077100B89748 /* Slave sale ledger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Slave sale ledger.png"; sourceTree = "<group>"; };
-		C495C1E516CC078500B89748 /* St Philip's steeple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "St Philip's steeple.png"; sourceTree = "<group>"; };
-		C495C1E716CC079400B89748 /* Sue Howard Hardy grave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sue Howard Hardy grave.png"; sourceTree = "<group>"; };
-		C495C1E916CC07A800B89748 /* Unitarian Church exterior.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Unitarian Church exterior.png"; sourceTree = "<group>"; };
-		C495C1EB16CC07B100B89748 /* White Point Gardens.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "White Point Gardens.png"; sourceTree = "<group>"; };
-		C495C1ED16CC08F600B89748 /* Dock Street Theatre .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dock Street Theatre .png"; sourceTree = "<group>"; };
-		C495C1EF16CC0A7B00B89748 /* Philadelphia Alley entrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Philadelphia Alley entrance.png"; sourceTree = "<group>"; };
-		C495C1F116CC0ADE00B89748 /* Pirate in fountain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pirate in fountain.png"; sourceTree = "<group>"; };
 		C4A5B8DD11CC5D2C00BDE06F /* PageEightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageEightViewController.h; sourceTree = "<group>"; };
 		C4A5B8DE11CC5D2C00BDE06F /* PageEightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageEightViewController.m; sourceTree = "<group>"; };
 		C4A5B8DF11CC5D2C00BDE06F /* PageEightViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PageEightViewController.xib; sourceTree = "<group>"; };
 		C4B60F1618C5106000ABA92F /* Icon40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon40.png; sourceTree = "<group>"; };
-		C4B60F1818C5107100ABA92F /* Icon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon58.png; sourceTree = "<group>"; };
-		C4B60F1A18C5109100ABA92F /* Icon76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon76.png; sourceTree = "<group>"; };
-		C4B60F1C18C5109C00ABA92F /* Icon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon80.png; sourceTree = "<group>"; };
-		C4B60F1E18C510A500ABA92F /* Icon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon120.png; sourceTree = "<group>"; };
-		C4B60F2018C510BB00ABA92F /* Icon152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon152.png; sourceTree = "<group>"; };
-		C4D6166A1D902363007C9DBE /* Old Exchange Building.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Old Exchange Building.png"; sourceTree = "<group>"; };
 		C4D6166C1D90281E007C9DBE /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		C4D6166E1D90283B007C9DBE /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		C4D616701D902849007C9DBE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		C4DF9D7B1D8C914600CB5354 /* Diane.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Diane.png; sourceTree = "<group>"; };
 		C4E93FAE11BAB87F0021141A /* LargePhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LargePhotoViewController.h; sourceTree = "<group>"; };
 		C4E93FAF11BAB87F0021141A /* LargePhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LargePhotoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -363,21 +339,9 @@
 				C4D616701D902849007C9DBE /* Default-568h@2x.png */,
 				C4D6166C1D90281E007C9DBE /* Default@2x.png */,
 				C474570116CBF2A7004FF486 /* InfoScreenC.png */,
-				C47456FD16CBF17B004FF486 /* InfoScreenC@2x.png */,
-				C47456FF16CBF1D8004FF486 /* InfoScreenC-568h@2x.png */,
 				C4B60F1618C5106000ABA92F /* Icon40.png */,
-				C4B60F1818C5107100ABA92F /* Icon58.png */,
-				C4B60F1A18C5109100ABA92F /* Icon76.png */,
-				C4B60F1C18C5109C00ABA92F /* Icon80.png */,
-				C4B60F1E18C510A500ABA92F /* Icon120.png */,
-				C4B60F2018C510BB00ABA92F /* Icon152.png */,
-				C480AA591D9173A7006B2B1B /* Icon180.png */,
-				C495C1A516CC054000B89748 /* Icon-small.png */,
 				C495C1A716CC054A00B89748 /* Icon.png */,
 				C495C1A916CC055400B89748 /* Icon@2x.png */,
-				C495C19F16CC052A00B89748 /* Icon-72.png */,
-				C495C1A116CC053200B89748 /* Icon-72@2x.png */,
-				C495C1AD16CC058100B89748 /* iTunesArtwork@2x.png */,
 				C42BAFBF11BF369300D9F604 /* InfoXIB */,
 				C42BAFBE11BF366B00D9F604 /* DetailXIB */,
 				C4E9401511BB0A5E0021141A /* Images */,
@@ -584,36 +548,36 @@
 		C4E9401511BB0A5E0021141A /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				C4DF9D7B1D8C914600CB5354 /* Diane.png */,
-				C495C1B316CC065F00B89748 /* Dock Street balcony.png */,
-				C495C1ED16CC08F600B89748 /* Dock Street Theatre .png */,
-				C495C1B516CC066600B89748 /* Dock Street sign.png */,
-				C495C1B916CC068100B89748 /* General Benjamin Lincoln.png */,
-				C480AA651D9175D3006B2B1B /* Hamilton-Burr duel.png */,
-				C495C1BB16CC069900B89748 /* Junius Booth.png */,
-				C495C1BD16CC06A700B89748 /* Lee family plot.png */,
-				C480AA671D9175F3006B2B1B /* Mills House after fire.png */,
-				C495C1C116CC06B800B89748 /* Mills House interior.png */,
-				C495C1BF16CC06B100B89748 /* Mills House Hotel.png */,
-				C495C1C316CC06CD00B89748 /* Old Exchange at night.png */,
-				C4D6166A1D902363007C9DBE /* Old Exchange Building.png */,
-				C495C1CD16CC06FC00B89748 /* Old Slave Mart.png */,
-				C495C1D316CC071800B89748 /* Philadelphia Alley at night.png */,
-				C495C1EF16CC0A7B00B89748 /* Philadelphia Alley entrance.png */,
-				C495C1F116CC0ADE00B89748 /* Pirate in fountain.png */,
-				C495C1D716CC073100B89748 /* Pirates Courtyard gate.png */,
-				C495C1D916CC073C00B89748 /* Pirates Courtyard.png */,
-				C480AA691D917607006B2B1B /* Poogan's marker.png */,
-				C495C1DF16CC075C00B89748 /* Poogan's Porch.png */,
-				C495C1DD16CC075400B89748 /* Poogan's Porch at night.png */,
-				C495C1E116CC076900B89748 /* Charleston slave sale.png */,
-				C495C1E316CC077100B89748 /* Slave sale ledger.png */,
-				C495C1E516CC078500B89748 /* St Philip's steeple.png */,
-				C44DDA92124FB19900286547 /* Sue Howard Hardy ghost.png */,
-				C495C1E716CC079400B89748 /* Sue Howard Hardy grave.png */,
-				C495C1B116CC065500B89748 /* Church cemetery.png */,
-				C495C1E916CC07A800B89748 /* Unitarian Church exterior.png */,
-				C495C1EB16CC07B100B89748 /* White Point Gardens.png */,
+				C40A0588208A865200090C65 /* Diane320.png */,
+				C40A0589208A865200090C65 /* Dock Street balcony.png */,
+				C40A058A208A865200090C65 /* Dock Street Theatre.png */,
+				C40A058B208A865200090C65 /* Dock Street sign.png */,
+				C40A058C208A865200090C65 /* General Benjamin Lincoln.png */,
+				C40A058D208A865200090C65 /* Hamilton Burr duel.png */,
+				C40A058E208A865200090C65 /* Junius Booth.png */,
+				C40A058F208A865200090C65 /* Lee family plot.png */,
+				C40A0591208A865200090C65 /* Mills House after fire.png */,
+				C40A0592208A865200090C65 /* Mills House interior.png */,
+				C40A0593208A865200090C65 /* Mills House Hotel.png */,
+				C40A05A0208A86A100090C65 /* Old Exchange at night.png */,
+				C40A05A1208A86A100090C65 /* Old Exchange Building.png */,
+				C40A05A2208A86A100090C65 /* Old Slave Mart.png */,
+				C40A05A3208A86A100090C65 /* Philadelphia Alley at night.png */,
+				C40A05A4208A86A100090C65 /* Philadelphia Alley entrance.png */,
+				C40A05A5208A86A100090C65 /* Pirate in fountain.png */,
+				C40A05A6208A86A100090C65 /* Pirates Courtyard gate.png */,
+				C40A05A7208A86A100090C65 /* Pirates Courtyard.png */,
+				C40A05A8208A86A100090C65 /* Poogan's marker.png */,
+				C40A05A9208A86A100090C65 /* Poogan's Porch.png */,
+				C40A05AA208A86A100090C65 /* Poogan's Porch at night.png */,
+				C40A05B6208A86B500090C65 /* Charleston slave sale.png */,
+				C40A05B7208A86B500090C65 /* Slave sale ledger.png */,
+				C40A05B8208A86B500090C65 /* St Philip's steeple.png */,
+				C40A05B9208A86B500090C65 /* Sue Howard Hardy ghost.png */,
+				C40A05BA208A86B500090C65 /* Sue Howard Hardy grave.png */,
+				C40A05BB208A86B500090C65 /* Church cemetery.png */,
+				C40A05BC208A86B500090C65 /* Unitarian Church exterior.png */,
+				C40A05BD208A86B500090C65 /* White Point Gardens.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -678,23 +642,27 @@
 			files = (
 				537204D40DC28C260048CDA2 /* PageThreeViewController.xib in Resources */,
 				537204D50DC28C260048CDA2 /* PageFiveViewController.xib in Resources */,
+				C40A0599208A865200090C65 /* Hamilton Burr duel.png in Resources */,
+				C40A05C2208A86B500090C65 /* Sue Howard Hardy grave.png in Resources */,
 				537204D60DC28C260048CDA2 /* PageFourViewController.xib in Resources */,
 				537204D70DC28C260048CDA2 /* MainWindow.xib in Resources */,
 				537204D80DC28C260048CDA2 /* PageOneViewController.xib in Resources */,
 				537204D90DC28C260048CDA2 /* PageTwoViewController.xib in Resources */,
 				537204DE0DC28C310048CDA2 /* Localizable.strings in Resources */,
-				C4DF9D7C1D8C914600CB5354 /* Diane.png in Resources */,
 				C458444E18DA2734006DD276 /* forward12.png in Resources */,
-				C480AA6A1D917607006B2B1B /* Poogan's marker.png in Resources */,
+				C40A05B4208A86A100090C65 /* Poogan's Porch.png in Resources */,
+				C40A059A208A865200090C65 /* Junius Booth.png in Resources */,
 				537204DF0DC28C310048CDA2 /* InfoPlist.strings in Resources */,
 				C485173B11AF5C7900549246 /* PinDRed1.png in Resources */,
+				C40A05B0208A86A100090C65 /* Pirate in fountain.png in Resources */,
 				C485173C11AF5C7900549246 /* PinDRed2.png in Resources */,
 				C485173D11AF5C7900549246 /* PinDRed3.png in Resources */,
 				C485173E11AF5C7900549246 /* PinDRed4.png in Resources */,
 				C485173F11AF5C7900549246 /* PinDRed5.png in Resources */,
+				C40A0598208A865200090C65 /* General Benjamin Lincoln.png in Resources */,
 				C458444C18DA272D006DD276 /* back12.png in Resources */,
 				C485174011AF5C7900549246 /* PinDRed6.png in Resources */,
-				C4D6166B1D902363007C9DBE /* Old Exchange Building.png in Resources */,
+				C40A05B3208A86A100090C65 /* Poogan's marker.png in Resources */,
 				C485174111AF5C7900549246 /* PinDRed7.png in Resources */,
 				C485174211AF5C7900549246 /* PinDRed8.png in Resources */,
 				C485183B11B0A40500549246 /* Playbutton.png in Resources */,
@@ -702,9 +670,9 @@
 				C485184011B0A41C00549246 /* bp_btn1.png in Resources */,
 				C485184111B0A41C00549246 /* bp_btn2.png in Resources */,
 				C485184311B0A42B00549246 /* volume_up.png in Resources */,
-				C4B60F1D18C5109C00ABA92F /* Icon80.png in Resources */,
 				C485184611B0A43B00549246 /* Infobutton.png in Resources */,
 				C4851B2011B4864000549246 /* TableViewIcon.png in Resources */,
+				C40A05C4208A86B500090C65 /* Unitarian Church exterior.png in Resources */,
 				C4851B2211B4864A00549246 /* MapViewIcon.png in Resources */,
 				C4851C5511B5E14B00549246 /* PageSixViewController.xib in Resources */,
 				C4851C6811B5E19800549246 /* PageSevenViewController.xib in Resources */,
@@ -713,72 +681,56 @@
 				C42BAFB311BF364900D9F604 /* HelpViewController.xib in Resources */,
 				C42BAFB811BF365400D9F604 /* AboutViewController.xib in Resources */,
 				C42BAFBD11BF365D00D9F604 /* HoursViewController.xib in Resources */,
+				C40A0594208A865200090C65 /* Diane320.png in Resources */,
 				C4A5B8E111CC5D2C00BDE06F /* PageEightViewController.xib in Resources */,
-				C4B60F1918C5107100ABA92F /* Icon58.png in Resources */,
+				C40A05AB208A86A100090C65 /* Old Exchange at night.png in Resources */,
+				C40A05B2208A86A100090C65 /* Pirates Courtyard.png in Resources */,
 				C4D616711D902849007C9DBE /* Default-568h@2x.png in Resources */,
 				C41EFDDB11FE69A00026DD31 /* PinDRed9.png in Resources */,
 				C41EFDDC11FE69A00026DD31 /* PinDRed10.png in Resources */,
+				C40A059B208A865200090C65 /* Lee family plot.png in Resources */,
 				C41EFDDD11FE69A00026DD31 /* PinDRed11.png in Resources */,
-				C44DDAB8124FB19900286547 /* Sue Howard Hardy ghost.png in Resources */,
-				C480AA661D9175D3006B2B1B /* Hamilton-Burr duel.png in Resources */,
 				C47456D816CAF2DE004FF486 /* PageNineViewController.xib in Resources */,
-				C4B60F1F18C510A600ABA92F /* Icon120.png in Resources */,
+				C40A0597208A865200090C65 /* Dock Street sign.png in Resources */,
+				C40A05B1208A86A100090C65 /* Pirates Courtyard gate.png in Resources */,
+				C40A05AF208A86A100090C65 /* Philadelphia Alley entrance.png in Resources */,
 				C47456E216CBDB0A004FF486 /* nolactable9@2x.png in Resources */,
 				C47456E416CBDB43004FF486 /* nolactable6@2x.png in Resources */,
-				C4B60F2118C510BB00ABA92F /* Icon152.png in Resources */,
 				C47456E616CBDDAE004FF486 /* nolactable1@2x.png in Resources */,
+				C40A059D208A865200090C65 /* Mills House after fire.png in Resources */,
 				C47456E816CBDDC0004FF486 /* nolactable2@2x.png in Resources */,
+				C40A05AE208A86A100090C65 /* Philadelphia Alley at night.png in Resources */,
 				C480AA5C1D917473006B2B1B /* Images.xcassets in Resources */,
 				C47456EA16CBDDD1004FF486 /* nolactable3@2x.png in Resources */,
+				C40A05AC208A86A100090C65 /* Old Exchange Building.png in Resources */,
+				C40A05C5208A86B500090C65 /* White Point Gardens.png in Resources */,
 				C47456EC16CBDDDE004FF486 /* nolactable4@2x.png in Resources */,
+				C40A05AD208A86A100090C65 /* Old Slave Mart.png in Resources */,
 				C47456EE16CBDDE9004FF486 /* nolactable5@2x.png in Resources */,
 				C47456F016CBDDFD004FF486 /* nolactable7@2x.png in Resources */,
 				C4D6166F1D90283B007C9DBE /* Default.png in Resources */,
+				C40A0596208A865200090C65 /* Dock Street Theatre.png in Resources */,
 				C47456F216CBDE0B004FF486 /* nolactable8@2x.png in Resources */,
-				C47456FE16CBF17B004FF486 /* InfoScreenC@2x.png in Resources */,
-				C474570016CBF1D9004FF486 /* InfoScreenC-568h@2x.png in Resources */,
+				C40A059E208A865200090C65 /* Mills House interior.png in Resources */,
+				C40A05BF208A86B500090C65 /* Slave sale ledger.png in Resources */,
+				C40A0595208A865200090C65 /* Dock Street balcony.png in Resources */,
 				C474570216CBF2A8004FF486 /* InfoScreenC.png in Resources */,
-				C495C1A016CC052A00B89748 /* Icon-72.png in Resources */,
-				C480AA5A1D9173A7006B2B1B /* Icon180.png in Resources */,
-				C495C1A216CC053200B89748 /* Icon-72@2x.png in Resources */,
-				C495C1A616CC054000B89748 /* Icon-small.png in Resources */,
+				C40A05C1208A86B500090C65 /* Sue Howard Hardy ghost.png in Resources */,
 				C495C1A816CC054A00B89748 /* Icon.png in Resources */,
 				C495C1AA16CC055400B89748 /* Icon@2x.png in Resources */,
-				C495C1AE16CC058100B89748 /* iTunesArtwork@2x.png in Resources */,
-				C495C1B216CC065500B89748 /* Church cemetery.png in Resources */,
-				C495C1B416CC065F00B89748 /* Dock Street balcony.png in Resources */,
-				C495C1B616CC066600B89748 /* Dock Street sign.png in Resources */,
-				C495C1BA16CC068100B89748 /* General Benjamin Lincoln.png in Resources */,
-				C4B60F1B18C5109100ABA92F /* Icon76.png in Resources */,
-				C495C1BC16CC069900B89748 /* Junius Booth.png in Resources */,
-				C495C1BE16CC06A700B89748 /* Lee family plot.png in Resources */,
-				C495C1C016CC06B100B89748 /* Mills House Hotel.png in Resources */,
-				C495C1C216CC06B800B89748 /* Mills House interior.png in Resources */,
-				C495C1C416CC06CD00B89748 /* Old Exchange at night.png in Resources */,
-				C495C1CE16CC06FC00B89748 /* Old Slave Mart.png in Resources */,
-				C495C1D416CC071800B89748 /* Philadelphia Alley at night.png in Resources */,
-				C495C1D816CC073100B89748 /* Pirates Courtyard gate.png in Resources */,
-				C495C1DA16CC073C00B89748 /* Pirates Courtyard.png in Resources */,
+				C40A05BE208A86B500090C65 /* Charleston slave sale.png in Resources */,
+				C40A05C0208A86B500090C65 /* St Philip's steeple.png in Resources */,
 				C4B60F1718C5106200ABA92F /* Icon40.png in Resources */,
-				C495C1DE16CC075400B89748 /* Poogan's Porch at night.png in Resources */,
-				C495C1E016CC075C00B89748 /* Poogan's Porch.png in Resources */,
-				C495C1E216CC076900B89748 /* Charleston slave sale.png in Resources */,
-				C495C1E416CC077100B89748 /* Slave sale ledger.png in Resources */,
-				C495C1E616CC078500B89748 /* St Philip's steeple.png in Resources */,
-				C495C1E816CC079400B89748 /* Sue Howard Hardy grave.png in Resources */,
-				C495C1EA16CC07A800B89748 /* Unitarian Church exterior.png in Resources */,
-				C495C1EC16CC07B100B89748 /* White Point Gardens.png in Resources */,
-				C495C1EE16CC08F600B89748 /* Dock Street Theatre .png in Resources */,
-				C495C1F016CC0A7B00B89748 /* Philadelphia Alley entrance.png in Resources */,
-				C495C1F216CC0ADE00B89748 /* Pirate in fountain.png in Resources */,
 				C421859218BB99E200E2C743 /* nolac4.mp3 in Resources */,
+				C40A05B5208A86A100090C65 /* Poogan's Porch at night.png in Resources */,
 				C421859418BB99FE00E2C743 /* nolac5.mp3 in Resources */,
 				C421859618BB9A0900E2C743 /* nolac8.mp3 in Resources */,
 				C421859818BB9A1300E2C743 /* nolac9.mp3 in Resources */,
 				C421859A18BB9A1C00E2C743 /* nolac1.mp3 in Resources */,
 				C421859C18BB9A2600E2C743 /* nolac3.mp3 in Resources */,
+				C40A059F208A865200090C65 /* Mills House Hotel.png in Resources */,
 				C421859E18BB9A3000E2C743 /* nolac6.mp3 in Resources */,
-				C480AA681D9175F3006B2B1B /* Mills House after fire.png in Resources */,
+				C40A05C3208A86B500090C65 /* Church cemetery.png in Resources */,
 				C42185A018BB9A3900E2C743 /* nolac2.mp3 in Resources */,
 				C4D6166D1D90281E007C9DBE /* Default@2x.png in Resources */,
 				C42185A218BB9A4200E2C743 /* nolac7.mp3 in Resources */,
