@@ -28,7 +28,7 @@
 	[super viewDidLoad];
 	self.title = NSLocalizedString(@"About", @"");
 	[scrollView setScrollEnabled:YES];
-	[scrollView setContentSize:CGSizeMake(320, 975)];
+	[scrollView setContentSize:CGSizeMake(320, 1300)];
 	[scrollView setBackgroundColor:[UIColor colorWithRed:TEXT_BGCOLORVAL_RED/255.0 green:TEXT_BGCOLORVAL_GREEN/255.0 blue:TEXT_BGCOLORVAL_BLUE/255.0 alpha:1]];
 }
 

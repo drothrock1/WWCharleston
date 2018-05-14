@@ -11,6 +11,13 @@
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		410850A1208AA5ED00E78B16 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 410850A0208AA5ED00E78B16 /* CoreLocation.framework */; };
+		41A2D5F1208B6C8C00423858 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 41A2D5F0208B6C8B00423858 /* Default.png */; };
+		41A2D5F3208B6CA200423858 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41A2D5F2208B6CA200423858 /* Default-568h@2x.png */; };
+		41A2D5F5208B6CAC00423858 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41A2D5F4208B6CAB00423858 /* Default@2x.png */; };
+		41A2D5F7208B6D6E00423858 /* InfoScreenC.png in Resources */ = {isa = PBXBuildFile; fileRef = 41A2D5F6208B6D6D00423858 /* InfoScreenC.png */; };
+		41A2D5F9208B6D7A00423858 /* InfoScreenC-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41A2D5F8208B6D7A00423858 /* InfoScreenC-568h@2x.png */; };
+		41A2D5FB208B6D8300423858 /* InfoScreenC480.png in Resources */ = {isa = PBXBuildFile; fileRef = 41A2D5FA208B6D8300423858 /* InfoScreenC480.png */; };
 		531F16A70D6367A3003D33FB /* PageTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16970D6367A3003D33FB /* PageTwoViewController.m */; };
 		531F16A80D6367A3003D33FB /* PageOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16980D6367A3003D33FB /* PageOneViewController.m */; };
 		531F16A90D6367A3003D33FB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16990D6367A3003D33FB /* AppDelegate.m */; };
@@ -92,7 +99,7 @@
 		C47456EE16CBDDE9004FF486 /* nolactable5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456ED16CBDDE9004FF486 /* nolactable5@2x.png */; };
 		C47456F016CBDDFD004FF486 /* nolactable7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456EF16CBDDFD004FF486 /* nolactable7@2x.png */; };
 		C47456F216CBDE0B004FF486 /* nolactable8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47456F116CBDE0B004FF486 /* nolactable8@2x.png */; };
-		C474570216CBF2A8004FF486 /* InfoScreenC.png in Resources */ = {isa = PBXBuildFile; fileRef = C474570116CBF2A7004FF486 /* InfoScreenC.png */; };
+		C474570216CBF2A8004FF486 /* Default480old.png in Resources */ = {isa = PBXBuildFile; fileRef = C474570116CBF2A7004FF486 /* Default480old.png */; };
 		C480AA5C1D917473006B2B1B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C480AA5B1D917473006B2B1B /* Images.xcassets */; };
 		C485162311AE1A6B00549246 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C485162211AE1A6B00549246 /* AVFoundation.framework */; };
 		C485162D11AE1A7C00549246 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C485162C11AE1A7C00549246 /* MapKit.framework */; };
@@ -125,9 +132,8 @@
 		C4A5B8E011CC5D2C00BDE06F /* PageEightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A5B8DE11CC5D2C00BDE06F /* PageEightViewController.m */; };
 		C4A5B8E111CC5D2C00BDE06F /* PageEightViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4A5B8DF11CC5D2C00BDE06F /* PageEightViewController.xib */; };
 		C4B60F1718C5106200ABA92F /* Icon40.png in Resources */ = {isa = PBXBuildFile; fileRef = C4B60F1618C5106000ABA92F /* Icon40.png */; };
-		C4D6166D1D90281E007C9DBE /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D6166C1D90281E007C9DBE /* Default@2x.png */; };
-		C4D6166F1D90283B007C9DBE /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D6166E1D90283B007C9DBE /* Default.png */; };
-		C4D616711D902849007C9DBE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D616701D902849007C9DBE /* Default-568h@2x.png */; };
+		C4D6166D1D90281E007C9DBE /* Default960old.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D6166C1D90281E007C9DBE /* Default960old.png */; };
+		C4D616711D902849007C9DBE /* Default1136old.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D616701D902849007C9DBE /* Default1136old.png */; };
 		C4E93FB011BAB87F0021141A /* LargePhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E93FAF11BAB87F0021141A /* LargePhotoViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -137,6 +143,13 @@
 		1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		410850A0208AA5ED00E78B16 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		41A2D5F0208B6C8B00423858 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		41A2D5F2208B6CA200423858 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		41A2D5F4208B6CAB00423858 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		41A2D5F6208B6D6D00423858 /* InfoScreenC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreenC.png; sourceTree = "<group>"; };
+		41A2D5F8208B6D7A00423858 /* InfoScreenC-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreenC-568h@2x.png"; sourceTree = "<group>"; };
+		41A2D5FA208B6D8300423858 /* InfoScreenC480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreenC480.png; sourceTree = "<group>"; };
 		531F16910D63677B003D33FB /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		531F16970D6367A3003D33FB /* PageTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageTwoViewController.m; sourceTree = "<group>"; };
 		531F16980D6367A3003D33FB /* PageOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageOneViewController.m; sourceTree = "<group>"; };
@@ -235,7 +248,7 @@
 		C47456ED16CBDDE9004FF486 /* nolactable5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nolactable5@2x.png"; sourceTree = "<group>"; };
 		C47456EF16CBDDFD004FF486 /* nolactable7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nolactable7@2x.png"; sourceTree = "<group>"; };
 		C47456F116CBDE0B004FF486 /* nolactable8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nolactable8@2x.png"; sourceTree = "<group>"; };
-		C474570116CBF2A7004FF486 /* InfoScreenC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreenC.png; sourceTree = "<group>"; };
+		C474570116CBF2A7004FF486 /* Default480old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default480old.png; sourceTree = "<group>"; };
 		C480AA5B1D917473006B2B1B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = WickedWalksCharleston/Images.xcassets; sourceTree = "<group>"; };
 		C485162211AE1A6B00549246 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		C485162C11AE1A7C00549246 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
@@ -275,9 +288,8 @@
 		C4A5B8DE11CC5D2C00BDE06F /* PageEightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageEightViewController.m; sourceTree = "<group>"; };
 		C4A5B8DF11CC5D2C00BDE06F /* PageEightViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PageEightViewController.xib; sourceTree = "<group>"; };
 		C4B60F1618C5106000ABA92F /* Icon40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon40.png; sourceTree = "<group>"; };
-		C4D6166C1D90281E007C9DBE /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		C4D6166E1D90283B007C9DBE /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		C4D616701D902849007C9DBE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		C4D6166C1D90281E007C9DBE /* Default960old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default960old.png; sourceTree = "<group>"; };
+		C4D616701D902849007C9DBE /* Default1136old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default1136old.png; sourceTree = "<group>"; };
 		C4E93FAE11BAB87F0021141A /* LargePhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LargePhotoViewController.h; sourceTree = "<group>"; };
 		C4E93FAF11BAB87F0021141A /* LargePhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LargePhotoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -287,6 +299,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				410850A1208AA5ED00E78B16 /* CoreLocation.framework in Frameworks */,
 				1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
@@ -335,10 +348,15 @@
 			isa = PBXGroup;
 			children = (
 				C480AA5B1D917473006B2B1B /* Images.xcassets */,
-				C4D6166E1D90283B007C9DBE /* Default.png */,
-				C4D616701D902849007C9DBE /* Default-568h@2x.png */,
-				C4D6166C1D90281E007C9DBE /* Default@2x.png */,
-				C474570116CBF2A7004FF486 /* InfoScreenC.png */,
+				41A2D5F0208B6C8B00423858 /* Default.png */,
+				41A2D5F4208B6CAB00423858 /* Default@2x.png */,
+				41A2D5F2208B6CA200423858 /* Default-568h@2x.png */,
+				C474570116CBF2A7004FF486 /* Default480old.png */,
+				C4D616701D902849007C9DBE /* Default1136old.png */,
+				C4D6166C1D90281E007C9DBE /* Default960old.png */,
+				41A2D5FA208B6D8300423858 /* InfoScreenC480.png */,
+				41A2D5F6208B6D6D00423858 /* InfoScreenC.png */,
+				41A2D5F8208B6D7A00423858 /* InfoScreenC-568h@2x.png */,
 				C4B60F1618C5106000ABA92F /* Icon40.png */,
 				C495C1A716CC054A00B89748 /* Icon.png */,
 				C495C1A916CC055400B89748 /* Icon@2x.png */,
@@ -360,6 +378,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				410850A0208AA5ED00E78B16 /* CoreLocation.framework */,
 				C485162C11AE1A7C00549246 /* MapKit.framework */,
 				C485162211AE1A6B00549246 /* AVFoundation.framework */,
 				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
@@ -608,10 +627,16 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0620;
+				LastUpgradeCheck = 0930;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 5G4385EGEP;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -650,12 +675,15 @@
 				537204D90DC28C260048CDA2 /* PageTwoViewController.xib in Resources */,
 				537204DE0DC28C310048CDA2 /* Localizable.strings in Resources */,
 				C458444E18DA2734006DD276 /* forward12.png in Resources */,
+				41A2D5F9208B6D7A00423858 /* InfoScreenC-568h@2x.png in Resources */,
 				C40A05B4208A86A100090C65 /* Poogan's Porch.png in Resources */,
 				C40A059A208A865200090C65 /* Junius Booth.png in Resources */,
 				537204DF0DC28C310048CDA2 /* InfoPlist.strings in Resources */,
+				41A2D5F3208B6CA200423858 /* Default-568h@2x.png in Resources */,
 				C485173B11AF5C7900549246 /* PinDRed1.png in Resources */,
 				C40A05B0208A86A100090C65 /* Pirate in fountain.png in Resources */,
 				C485173C11AF5C7900549246 /* PinDRed2.png in Resources */,
+				41A2D5FB208B6D8300423858 /* InfoScreenC480.png in Resources */,
 				C485173D11AF5C7900549246 /* PinDRed3.png in Resources */,
 				C485173E11AF5C7900549246 /* PinDRed4.png in Resources */,
 				C485173F11AF5C7900549246 /* PinDRed5.png in Resources */,
@@ -674,7 +702,9 @@
 				C4851B2011B4864000549246 /* TableViewIcon.png in Resources */,
 				C40A05C4208A86B500090C65 /* Unitarian Church exterior.png in Resources */,
 				C4851B2211B4864A00549246 /* MapViewIcon.png in Resources */,
+				41A2D5F1208B6C8C00423858 /* Default.png in Resources */,
 				C4851C5511B5E14B00549246 /* PageSixViewController.xib in Resources */,
+				41A2D5F5208B6CAC00423858 /* Default@2x.png in Resources */,
 				C4851C6811B5E19800549246 /* PageSevenViewController.xib in Resources */,
 				C42BAFA911BF363000D9F604 /* TipsViewController.xib in Resources */,
 				C42BAFAE11BF363D00D9F604 /* DirectionsViewController.xib in Resources */,
@@ -685,7 +715,7 @@
 				C4A5B8E111CC5D2C00BDE06F /* PageEightViewController.xib in Resources */,
 				C40A05AB208A86A100090C65 /* Old Exchange at night.png in Resources */,
 				C40A05B2208A86A100090C65 /* Pirates Courtyard.png in Resources */,
-				C4D616711D902849007C9DBE /* Default-568h@2x.png in Resources */,
+				C4D616711D902849007C9DBE /* Default1136old.png in Resources */,
 				C41EFDDB11FE69A00026DD31 /* PinDRed9.png in Resources */,
 				C41EFDDC11FE69A00026DD31 /* PinDRed10.png in Resources */,
 				C40A059B208A865200090C65 /* Lee family plot.png in Resources */,
@@ -708,13 +738,12 @@
 				C40A05AD208A86A100090C65 /* Old Slave Mart.png in Resources */,
 				C47456EE16CBDDE9004FF486 /* nolactable5@2x.png in Resources */,
 				C47456F016CBDDFD004FF486 /* nolactable7@2x.png in Resources */,
-				C4D6166F1D90283B007C9DBE /* Default.png in Resources */,
 				C40A0596208A865200090C65 /* Dock Street Theatre.png in Resources */,
 				C47456F216CBDE0B004FF486 /* nolactable8@2x.png in Resources */,
 				C40A059E208A865200090C65 /* Mills House interior.png in Resources */,
 				C40A05BF208A86B500090C65 /* Slave sale ledger.png in Resources */,
 				C40A0595208A865200090C65 /* Dock Street balcony.png in Resources */,
-				C474570216CBF2A8004FF486 /* InfoScreenC.png in Resources */,
+				C474570216CBF2A8004FF486 /* Default480old.png in Resources */,
 				C40A05C1208A86B500090C65 /* Sue Howard Hardy ghost.png in Resources */,
 				C495C1A816CC054A00B89748 /* Icon.png in Resources */,
 				C495C1AA16CC055400B89748 /* Icon@2x.png in Resources */,
@@ -728,11 +757,12 @@
 				C421859818BB9A1300E2C743 /* nolac9.mp3 in Resources */,
 				C421859A18BB9A1C00E2C743 /* nolac1.mp3 in Resources */,
 				C421859C18BB9A2600E2C743 /* nolac3.mp3 in Resources */,
+				41A2D5F7208B6D6E00423858 /* InfoScreenC.png in Resources */,
 				C40A059F208A865200090C65 /* Mills House Hotel.png in Resources */,
 				C421859E18BB9A3000E2C743 /* nolac6.mp3 in Resources */,
 				C40A05C3208A86B500090C65 /* Church cemetery.png in Resources */,
 				C42185A018BB9A3900E2C743 /* nolac2.mp3 in Resources */,
-				C4D6166D1D90281E007C9DBE /* Default@2x.png in Resources */,
+				C4D6166D1D90281E007C9DBE /* Default960old.png in Resources */,
 				C42185A218BB9A4200E2C743 /* nolac7.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -844,20 +874,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WickedWalksCharleston;
 				PRODUCT_NAME = WickedWalksCharleston;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -868,18 +904,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WickedWalksCharleston;
 				PRODUCT_NAME = WickedWalksCharleston;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -889,11 +931,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = WickedWalksCharleston;
 				PROVISIONING_PROFILE = "";
@@ -905,11 +973,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -920,11 +1013,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = WickedWalksCharleson;
 				PROVISIONING_PROFILE = "";
@@ -937,18 +1055,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Bradley Rothrock (C6RC253926)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bradley Rothrock (C6RC253926)";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WickedWalksCharleston;
 				PRODUCT_NAME = WickedWalksCharleston;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
